@@ -1,0 +1,14 @@
+baseURL = 'http://localhost:1313'
+title = 'Expenses'
+
+# Disable all the extra stuff
+disableKinds = ["home", "taxonomy", "term", "RSS", "sitemap", "robotsTXT", "404"]
+
+[mediaTypes]
+  [mediaTypes."text/markdown"]
+    suffixes = ["md"]
+
+[outputFormats]
+  [outputFormats.md]
+    mediaType = "text/markdown"
+    isPlainText = true
