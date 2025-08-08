@@ -1,23 +1,24 @@
 
 ## Tabular representation
 
-| Purpose           | Amount   | Date        | Explanation |Paid       |
-|----------------|----------|------------ |-------------|-----------|
-| {{ .Site.Data.expense.purpose }} | Not yet | Not yet | Not yet |Not yet
+| Purpose | Amount | Date | Explanation |Paid       |
+|---|---|---|---|---|
+| {{ .Site.Data.expense.purpose }} | {{ .Site.Data.expense.amount }} | {{ .Site.Data.expense.date }} | {{ .Site.Data.expense.explaination }}
+
 
 ## Another tabular representation
 
 | Field | Value |
 |-------|-------|
-| Purpose | Not yet |
-| Amount | Not yet |
-| Date | Not yet |
-| Explanation | Not yet |
+| {{ .Site.Data.expense.purpose }} |
+| {{ .Site.Data.expense.amount }} |
+| {{ .Site.Data.expense.date }} |
+| {{ .Site.Data.expense.explaination }} |
 
 ## Bullet-point representation
 
 **Expense**:
-- _Purpose:_ Not yet
-- _Amount:_ Not yet
-- _Date:_ Not yet
-- _Explanation:_ Not yet
+- _{{ .Site.Data.expense.purpose }}_
+- _{{ .Site.Data.expense.amount }}_
+- _{{ .Site.Data.expense.date }}_
+- _{{ .Site.Data.expense.explaination }}_

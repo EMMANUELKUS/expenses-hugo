@@ -1,23 +1,24 @@
 
 ## Tabular representation
 
-| Purpose           | Amount   | Date        | Explanation |Paid       |
-|----------------|----------|------------ |-------------|-----------|
-| Food | Not yet | Not yet | Not yet |Not yet
+| Purpose | Amount | Date | Explanation |Paid       |
+|---|---|---|---|---|
+| Food | 1,300ghc | 31/10/2024 | Stocking the house with food so that we don't lack food or short food before the end of the month
+
 
 ## Another tabular representation
 
 | Field | Value |
 |-------|-------|
-| Purpose | Not yet |
-| Amount | Not yet |
-| Date | Not yet |
-| Explanation | Not yet |
+| Food |
+| 1,300ghc |
+| 31/10/2024 |
+| Stocking the house with food so that we don't lack food or short food before the end of the month |
 
 ## Bullet-point representation
 
 **Expense**:
-- _Purpose:_ Not yet
-- _Amount:_ Not yet
-- _Date:_ Not yet
-- _Explanation:_ Not yet
+- _Food_
+- _1,300ghc_
+- _31/10/2024_
+- _Stocking the house with food so that we don't lack food or short food before the end of the month_
