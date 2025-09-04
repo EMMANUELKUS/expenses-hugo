@@ -1,0 +1,378 @@
+[
+    {
+        "purpose": "Food",
+        "amount": "1,300ghc",
+        "date": "31/10/2024",
+        "explanation": "Stocking the house with food so that we don't lack food or short food before the end of the month"
+    },
+    {
+        "purpose": "Food",
+        "amount": "1,300ghc",
+        "date": "31/10/2024",
+        "explanation": "Stocking the house with food so that we don't lack food or short food before the end of the month"
+    },
+    {
+        "purpose": "Food",
+        "amout": "1,300ghc",
+        "date": "31/10/2024",
+        "explanation": "Stocking the house with food so that we don't lack food or short food before the end of the month"
+    },
+    {
+        "purpose": "Electricity",
+        "amount": "300ghc",
+        "date": "31/10/2024",
+        "explanation": "Buying as much electricity so that we always have light until the end of the month"
+    },
+    {
+        "purpose": "Football shoe",
+        "amount": "550ghc",
+        "date": "16/10/2024",
+        "explanation": "I need a football shoe to play football,18th of this month I am traveling to Accra for a trials"
+    },
+    {
+        "purpose": "Pocket money",
+        "amount": "200ghc",
+        "date": "31/10/2024",
+        "explanation": "Pocket money, the money I keep in my pocket so that when I need something i can buy"
+    },
+    {
+        "purpose": "Food",
+        "amount": "1,300ghc",
+        "date": "29/11/2024",
+        "explanation": "My uncle helping my mom and I to stock the house with food"
+    },
+    {
+        "purpose": "Electricity",
+        "amount": "300ghc",
+        "date": "29/11/2024",
+        "explanation": "My uncle helping us buy enough electricity so that we don't run out of light"
+    },
+    {
+        "purpose": "Pocket money",
+        "amount": "200ghc",
+        "date": "29/11/2024",
+        "explanation": "My uncle gives me pocket money that helps me to buy something when I need it"
+    },
+    {
+        "purpose": "Charcoal",
+        "amount": "180ghc",
+        "date": "29/11/2024",
+        "explanation": "My uncle to help me buy bags of charcoal so that i can always get fire to cook"
+    },
+    {
+        "purpose": "Food",
+        "amount": "1,300ghc",
+        "date": "30/12/2024",
+        "explanation": "My uncle helping me to buy food to stock the house"
+    },
+    {
+        "purpose": "Electricity",
+        "amount": "300ghc",
+        "date": "30/12/2024",
+        "explanation": "My uncle to help me buy much electricity to have light until the end of the month"
+    },
+    {
+        "purpose": "Pocket money",
+        "amount": "200ghc",
+        "date": "30/12/2024",
+        "explanation": "My uncle gives me money to keep in my pocket,whenever i need something then i can buy"
+    },
+    {
+        "purpose": "Extra food",
+        "amount": "250ghc",
+        "date": "30/12/2024",
+        "explanation": "My uncle to help me get one full chicken to have much protein"
+    },
+    {
+        "purpose": "Mummy's shoe",
+        "amount": "160ghc",
+        "date": "30/12/2024",
+        "explanation": "My uncle to help me suprise my mom with a new pair of shoe"
+    },
+    {
+        "purpose": "Charcoal",
+        "amount": "180ghc",
+        "date": "30/12/2024",
+        "explanation": "Uncle to help me buy one bag of charcoal so that i can always cook in the house"
+    },
+    {
+        "purpose": "Pizza",
+        "amount": "130ghc",
+        "date": "30/12/2024",
+        "explanation": "Want to get mommy some pizza for christmas"
+    },
+    {
+        "purpose": "Food",
+        "amount": "1,300ghc",
+        "date": "30/01/2025",
+        "explanation": "Stocking the house with food until the end of the month"
+    },
+    {
+        "purpose": "Ankle Support",
+        "amount": "300ghc",
+        "explanation": "Ankle Support is a medical item to wear on my ankle to support my ankle and reduces pains"
+    },
+    {
+        "purpose": "Starlink",
+        "amount": "770ghc",
+        "date": "17/02/2025",
+        "explanation": "satelite to establish a good internet connection"
+    },
+    {
+        "purpose": "Food",
+        "amount": "1,300ghc",
+        "date": "28/02/2025",
+        "explanation": "Stocking the house with food until the end of the month"
+    },
+    {
+        "purpose": "Electricity",
+        "amount": "300ghc",
+        "date": "28/02/2025",
+        "explanation": "My uncle buys electricity for me so that i don't run out of electricity before the month ends"
+    },
+    {
+        "purpose": "Pocket money",
+        "amount": "200ghc",
+        "date": "28/02/2025",
+        "explanation": "Money to keep in my pocket so that whenever i need something i could buy"
+    },
+    {
+        "purpose": "Extra food",
+        "amount": "150ghc",
+        "date": "28/02/2025",
+        "explanation": "Buying extra food to gain higher amount of protein"
+    },
+    {
+        "purpose": "Supplements",
+        "amount": "215ghc",
+        "date": "17/02/2025",
+        "explanation": "My medical supplements uncle bought for me is almost finished and i need uncle to help me again"
+    },
+    {
+        "purpose": "Physio (6x)",
+        "amount": "30ghc/ea",
+        "date": "17/02/2025",
+        "explanation": "Physio treatment to heal the pains in my ankle"
+    },
+    {
+        "purpose": "Food",
+        "amount": "1,300ghc",
+        "date": "31/03/2025",
+        "explanation": "Stocking the house with food until the end of the month"
+    },
+    {
+        "purpose": "Electricity",
+        "amount": "300ghc",
+        "date": "31/03/2025",
+        "explanation": "Uncle buys electricity for us so that we don't run out of electricity before the month ends"
+    },
+    {
+        "purpose": "Pocket Money",
+        "amount": "200ghc",
+        "date": "31/03/2025",
+        "explanation": "Money to keep in my pocket so that i can buy something whenever needed"
+    },
+    {
+        "purpose": "Extra Food",
+        "amount": "150ghc",
+        "date": "31/03/2025",
+        "explanation": "Buying extra food to gain higher amount of protein"
+    },
+    {
+        "purpose": "Starlink",
+        "amount": "770ghc",
+        "date": "17/03/2025",
+        "explanation": "Starlink satelite to get a better internet connection"
+    },
+    {
+        "purpose": "Fan",
+        "amount": "300ghc",
+        "date": "17/03/2025",
+        "explanation": "My uncle helping me to get a fan because lately the heat in my room is too much"
+    },
+    {
+        "purpose": "X-ray",
+        "amount": "100ghc",
+        "date": "31/03/2025",
+        "explanation": "An x-ray to confirm the state of my feet"
+    },
+    {
+        "purpose": "A cast",
+        "amount": "500ghc",
+        "date": "31/03/2025",
+        "explanation": "Uncle providing me with a cast to help heal my feet quicker and proper"
+    },
+    {
+        "purpose": "Food",
+        "amount": "1,300ghc",
+        "date": "30/04/2025",
+        "explanation": "My uncle help provide food for me and my mother"
+    },
+    {
+        "purpose": "Electricity",
+        "amount": "300ghc",
+        "date": "30/04/2025",
+        "explanation": "My uncle buys electricity for me and my mom so that we don't run out of light before the month ends"
+    },
+    {
+        "purpose": "Extra food",
+        "amount": "450ghc",
+        "date": "30/04/2025",
+        "explanation": "My uncle help me get additional food that provides protein and strenght for my body"
+    },
+    {
+        "purpose": "Pocket money",
+        "amount": "200ghc",
+        "date": "30/04/2025",
+        "explanation": "Pocket money so that i can buy something when i need"
+    },
+    {
+        "purpose": "Starlink internet",
+        "amount": "770ghc",
+        "date": "17/04/2025",
+        "explanation": "To get a better internet connection"
+    },
+    {
+        "purpose": "X-ray",
+        "amount": "100ghc",
+        "date": "30/04/2025",
+        "explanation": "My uncle to help me take an x-ray to see how far my feet has been"
+    },
+    {
+        "purpose": "Slippers",
+        "amount": "150ghc",
+        "date": "30/04/2025",
+        "explanation": "My uncle to help me buy a new slippers because the slippers he bought for me last year has become old and spoiled"
+    },
+    {
+        "purpose": "Cast",
+        "amount": "500ghc",
+        "date": "30/05/2025",
+        "explanation": "After the first cast became soft and was not functioning efficiently, my uncle gave me money to make a new cast"
+    },
+    {
+        "purpose": "Food",
+        "amount": "1,300ghc",
+        "date": "31/05/2025",
+        "explanation": "My uncle provide food for me and my mother for the whole month"
+    },
+    {
+        "purpose": "Electricity",
+        "amount": "300ghc",
+        "date": "31/05/2025",
+        "explanation": "My uncle buys electricity for me and my mom"
+    },
+    {
+        "purpose": "Pocket money",
+        "amount": "200ghc",
+        "date": "31/05/2025",
+        "explanation": "Uncle gives me pocket money so that i can be able to buy something when i need"
+    },
+    {
+        "purpose": "Extra food",
+        "amount": "450ghc",
+        "date": "31/05/2025",
+        "explanation": "Uncle to help me buy additional food for my body to gain protein and function well"
+    },
+    {
+        "purpose": "Starlink",
+        "amount": "770ghc",
+        "date": "17/05/2025",
+        "explanation": "My uncle helps me recharge my starlink to be able to get good connection all the time"
+    },
+    {
+        "purpose": "X-ray",
+        "amount": "100ghc",
+        "date": "30/05/2025",
+        "explanation": "My uncle to help me have an xray to see the improvement in my ankle fracture"
+    },
+    {
+        "purpose": "Passport",
+        "amount": "1,900ghc",
+        "date": "06/06/2025",
+        "explanation": "My uncle helped me to get a new passport"
+    },
+    {
+        "purpose": "Starlink",
+        "amount": "770ghc",
+        "date": "17/06/2025",
+        "explanation": "Uncle recharges my starlink for me so that i get a proper internet connection for studies"
+    },
+    {
+        "purpose": "sponge and towel",
+        "amount": "130ghc",
+        "date": "My uncle to to help me buy a new sponge and a new towel"
+    },
+    {
+        "purpose": "X-ray",
+        "amount": "|100ghc",
+        "date": "13/06/2025",
+        "explanation": "After wearing the new cast my uncle gave me money to have an x-ray to check how the injury was improving"
+    },
+    {
+        "purpose": "X-ray",
+        "amount": "100ghc",
+        "date": "20/06/2025",
+        "explanation": "My uncle helped me had another x-ray to check again hw the injury was healing"
+    },
+    {
+        "purpose": "Mom's health",
+        "amount": "300ghc",
+        "date": "25/06/2025",
+        "explanation": "My uncle helped my mom with some money to go o the hospital"
+    },
+    {
+        "purpose": "Food",
+        "amount": "1,300ghc",
+        "date": "30/06/2025",
+        "explanation": "Uncle to provide food for me and my mom for the month"
+    },
+    {
+        "purpose": "Electricity",
+        "amount": "300ghc",
+        "date": "30/06/2025",
+        "explanation": "My uncle helping me and my mom gets electricity throughout the month"
+    },
+    {
+        "purpose": "pocket money",
+        "amount": "200ghc",
+        "date": "30/06/2025",
+        "explanation": "My uncle gives me pocket money so that i can buy things i need"
+    },
+    {
+        "purpose": "Extra Food",
+        "amount": "450ghc",
+        "date": "30/06/2025",
+        "explanation": "My uncle buys extra food for me to gain protein and my body to function  well"
+    },
+    {
+        "purpose": "Starlink due",
+        "amount": "770ghc",
+        "date": "18/07/2025",
+        "explanation": "My uncle help me to pay starlink monthly due to get a better internet connection always"
+    },
+    {
+        "purpose": "Food",
+        "amount": "1,300ghc",
+        "date": "31/07/2025",
+        "explanation": "My uncle provides food for me and my mom for the month"
+    },
+    {
+        "purpose": "Electricity",
+        "amount": "300ghc",
+        "date": "31/07/2025",
+        "explanation": "My uncle helps me and my mom to get enough electricity for the month"
+    },
+    {
+        "purpose": "Pocket money",
+        "amount": "200ghc",
+        "date": "31/07/2025",
+        "explanation": "My uncle provide sends me pocket money so that i can buy something when i need"
+    },
+    {
+        "purpose": "Surgery Appointment",
+        "amount": "800ghc",
+        "date": "25/07/2025",
+        "explanation": "My uncle to help me go and and meet a surgeon to discuss about my ankle"
+    }
+]
