@@ -1,7 +1,8 @@
 
-## Tabular representation
+## Expenses
 
 
 | Purpose | Amount | Date | Explanation |Paid |
 |---|---|---|---|---|
-{{ with .Site.Data.expense }}| {{ .purpose }} | {{ .amount }} | {{ .date }} | {{ .explaination }} | TODO {{ end }}
+{{ range .Site.Data.expenses }}| {{ .purpose }} | {{ .amount }} | {{ .date }} | {{ .explanation }} |
+{{ end }}
