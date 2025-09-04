@@ -301,11 +301,12 @@
     {
         "purpose": "sponge and towel",
         "amount": "130ghc",
-        "date": "My uncle to to help me buy a new sponge and a new towel"
+        "date": "",
+        "explanation": "My uncle to to help me buy a new sponge and a new towel"
     },
     {
         "purpose": "X-ray",
-        "amount": "|100ghc",
+        "amount": "100ghc",
         "date": "13/06/2025",
         "explanation": "After wearing the new cast my uncle gave me money to have an x-ray to check how the injury was improving"
     },
