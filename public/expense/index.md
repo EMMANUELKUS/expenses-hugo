@@ -86,4 +86,3 @@
 | Electricity | 300ghc | 30/09/2025 | My uncle buys electricity for me so that i always have electriity |  :x: 
 | Pocket | 200ghc | 31/09/2025 | My uncle gives me pocket money to keep so that i could buy something when i need |  :x: 
 | Starlink | 770ghc | 30/09/2025 | My uncle pays my starlink's monthly dues for me |  :x: 
-| x-ray | 100ghc | 09/09/2025 | My uncl to help me go and take an x-ray to see how my injury is healing now |  :x: 

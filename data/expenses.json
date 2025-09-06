@@ -572,12 +572,5 @@
         "date": "30/09/2025",
         "explanation": "My uncle pays my starlink's monthly dues for me",
         "else": ":x:"   
-    },
-    {
-        "purpose": "x-ray",
-        "amount": "100ghc",
-        "date": "09/09/2025",
-        "explanation": "My uncl to help me go and take an x-ray to see how my injury is healing now",
-        "else": ":x:"
     }
 ]
