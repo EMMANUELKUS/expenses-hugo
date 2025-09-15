@@ -570,6 +570,6 @@
         "amount": "770ghc",
         "date": "30/09/2025",
         "explanation": "My uncle pays my starlink's monthly dues for me",
-        "else": "false"
+        "paid": "false"
     }
 ]
