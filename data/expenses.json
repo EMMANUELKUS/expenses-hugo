@@ -548,14 +548,14 @@
     {
         "purpose": "Pocket",
         "amount": "200ghc",
-        "date": "31/09/2025",
+        "date": "30/09/2025",
         "explanation": "My uncle gives me pocket money to keep so that i could buy something when i need",
         "paid": false
     },
     {
         "purpose": "Starlink",
         "amount": "770ghc",
-        "date": "31/09/2025",
+        "date": "30/09/2025",
         "explanation": "My uncle pays my starlink's monthly dues for me",
         "paid": false
     }
