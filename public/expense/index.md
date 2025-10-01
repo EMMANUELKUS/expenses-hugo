@@ -82,5 +82,5 @@
 |  My uncle sent me money  |  500ghc  |  17/08/2025  | I ran out of money while still in kumasi and my uncle sent me money |  true 
 |  Food  |  1,300ghc  |  30/09/2025  | My uncle helps me stock my house with food so that i don't run out of food before the end of the month |  false 
 |  Electricity  |  300ghc  |  30/09/2025  | My uncle buys electricity for me so that i always have electriity |  false 
-|  pocket money  |  200ghc  |  30/09/2025  | My uncle gives me pocket money to keep so that i could buy something when i need |  false 
+|  Pocket money  |  200ghc  |  30/09/2025  | My uncle gives me pocket money to keep so that i could buy something when i need |  false 
 |  Starlink  |  770ghc  |  30/09/2025  | My uncle pays my starlink's monthly dues for me |  false 
