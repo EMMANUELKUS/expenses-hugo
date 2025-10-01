@@ -7,20 +7,6 @@
         "paid": true
     },
     {
-        "purpose": "Food",
-        "amount": "1,300ghc",
-        "date": "31/10/2024",
-        "explanation": "Stocking the house with food so that we don't lack food or short food before the end of the month",
-        "paid": true
-    },
-    {
-        "purpose": "Food",
-        "amout": "1,300ghc",
-        "date": "31/10/2024",
-        "explanation": "Stocking the house with food so that we don't lack food or short food before the end of the month",
-        "paid": true
-    },
-    {
         "purpose": "Electricity",
         "amount": "300ghc",
         "date": "31/10/2024",
@@ -128,6 +114,7 @@
     {
         "purpose": "Ankle Support",
         "amount": "300ghc",
+        "date": "",
         "explanation": "Ankle Support is a medical item to wear on my ankle to support my ankle and reduces pains",
         "paid": true
     },
@@ -444,77 +431,77 @@
         "amount": "200ghc",
         "date": "25/07/2025",
         "explanation": "My uncle is gonna help me to travel to kumasi to meet a surgeon",
-        "paid": ":thumbsup:"
+        "paid": true
     },
     {
         "purpose": "Two bags of charcoal",
         "amount": "360ghc",
         "date": "31/07/2025",
         "explanation": "My uncle to help me get two bags of charcoal to be cooking for at least three months but if he want he can buy one",
-        "paid": ":thumbsup:"
+        "paid": true
     },
     {
         "purpose": "Transportation",
         "amount": "240ghc",
         "date": "ASAP",
         "explanation": "My uncle gonna help me travel to sunyani tthe capital town in our region to conclude my passport",
-        "paid": ":thumbsup:"
+        "paid": true
     },
     {
         "purpose": "Affidavits",
         "amount": "140ghc",
         "date": "ASAP",
         "explanation": "My uncle helping my mom to get an affidavits at the passport office",
-        "paid": ":thumbsup:"
+        "paid": true
     },
     {
         "purpose": "Laptop Repair",
         "amount": "150ghc",
         "date": "31/07/2025",
         "explanation": "My uncle helped me repair my laptop when it suddenly stopped charging",
-        "paid": ":thumbsup:"
+        "paid": true
     },
     {
         "purpose": "Food",
         "amount": "1,300ghc",
         "date": "31/08/2025",
         "explanation": "My uncle helps me to stock the house with food until the end of the month",
-        "paid": ":thumbsup:"
+        "paid": true
     },
     {
         "purpose": "Electricity",
         "amount": "300ghc",
         "date": "31/08/2025",
         "explanation": "My uncle helps buy electricity for us",
-        "paid": ":thumbsup:"
+        "paid": true
     },
     {
         "purpose": "Pocket money",
         "amount": "200ghc",
         "date": "31/08/2025",
         "explanation": "My uncle gives me money to keep in my pocket to use it to buy something when needed",
-        "paid": ":thumbsup:"
+        "paid": true
     },
     {
         "purpose": "Starlink",
         "amount": "770ghc",
         "date": "18/08/2025",
         "explanation": "My uncle help me pay for my starlink monthly due",
-        "paid": ":thumbsup:"
+        "paid": true
     },
     {
         "purpose": "Surgery",
         "amount": "6,000ghc",
         "date": "09/08/2025",
         "explanation": "My uncle and my father's family coming together to help me have a surgery to heal my un-union ankle fracture",
-        "paid": ":thumbsup:"
+        "paid": true
     },
     {
         "purpose": "Transportation",
         "amount": "700ghc",
         "date": "10/08/2025",
         "explanation": "My grandma gave me 700ghc for the transportation to kumasi for the surgery",
-        "paid": ":thumbsup:"
+        "paid": true
     },
     {
         "purpose": "Slippers",
@@ -549,27 +536,27 @@
         "amount": "1,300ghc",
         "date": "30/09/2025",
         "explanation": "My uncle helps me stock my house with food so that i don't run out of food before the end of the month",
-        "else": "false"
+        "paid": false
     },
     {
         "purpose": "Electricity",
         "amount": "300ghc",
         "date": "30/09/2025",
         "explanation": "My uncle buys electricity for me so that i always have electriity",
-        "else": "false"
+        "paid": false
     },
     {
         "purpose": "Pocket",
         "amount": "200ghc",
         "date": "31/09/2025",
         "explanation": "My uncle gives me pocket money to keep so that i could buy something when i need",
-        "else": "false"
+        "paid": false
     },
     {
         "purpose": "Starlink",
         "amount": "770ghc",
-        "date": "30/09/2025",
+        "date": "31/09/2025",
         "explanation": "My uncle pays my starlink's monthly dues for me",
-        "paid": "false"
+        "paid": false
     }
 ]
