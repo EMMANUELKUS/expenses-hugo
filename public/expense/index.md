@@ -80,7 +80,13 @@
 |  repaired my phone  |  150ghc  |  11/08/2025  | I also used another 150ghc from the same 700ghc my grandma gave me to repair my phone's charging port |  :thumbsup: 
 |  x-ray  |  300ghc  |  12/08/2025  | After the surgery they asked me to take an x-ray in the hospital |  :thumbsup: 
 |  My uncle sent me money  |  500ghc  |  17/08/2025  | I ran out of money while still in kumasi and my uncle sent me money |  :thumbsup: 
-|  Food  |  1,300ghc  |  30/09/2025  | My uncle helps me stock my house with food so that i don't run out of food before the end of the month |  :x: 
-|  Electricity  |  300ghc  |  30/09/2025  | My uncle buys electricity for me so that i always have electriity |  :x: 
-|  Pocket money  |  200ghc  |  30/09/2025  | My uncle gives me pocket money to keep so that i could buy something when i need |  :x: 
-|  Starlink  |  770ghc  |  30/09/2025  | My uncle pays my starlink's monthly dues for me |  :x: 
+|  Food  |  1,300ghc  |  30/09/2025  | My uncle helps me stock my house with food so that i don't run out of food before the end of the month |  :thumbsup: 
+|  Electricity  |  300ghc  |  30/09/2025  | My uncle buys electricity for me so that i always have electriity |  :thumbsup: 
+|  Pocket money  |  200ghc  |  30/09/2025  | My uncle gives me pocket money to keep so that i could buy something when i need |  :thumbsup: 
+|  Starlink  |  770ghc  |  30/09/2025  | My uncle pays my starlink's monthly dues for me |  :thumbsup: 
+|  Food  |  1,300ghc  |  31/10/2025  | My uncle helps me and my mom to fill our house with food so that we have more food until the end of the month |  :x: 
+|  Electricity  |  300ghc  |  31/10/2025  | My uncle help me and my mom to pay our light bills every month |  :x: 
+|  Pocket money  |  200ghc  |  31/10/2025  | My uncle gives me money to save in my pocket so that i can buy things i need |  :x: 
+|  Starlink  |  770ghc  |  31/10/2025  | My uncle pays my starlink monthly due for me so that i can always have a better internet connection for class or a good communication |  :x: 
+|  X-ray  |  100ghc  |  31/10/2025  | The surgeons said that my ankle injury is healing so i should wait ffor one more month to start walking fully on it so i want to take an x-ray and show them after the one month |  :x: 
+|  Two bags of charcoals  |  380ghc  |  31/10/2025  | We have only one charcoal left and it will finish by the end of the month so i need my uncle to help me buy some at the end of the month |  :x: 

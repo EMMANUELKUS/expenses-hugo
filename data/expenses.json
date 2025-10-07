@@ -536,27 +536,69 @@
         "amount": "1,300ghc",
         "date": "30/09/2025",
         "explanation": "My uncle helps me stock my house with food so that i don't run out of food before the end of the month",
-        "paid": false
+        "paid": true
     },
     {
         "purpose": "Electricity",
         "amount": "300ghc",
         "date": "30/09/2025",
         "explanation": "My uncle buys electricity for me so that i always have electriity",
-        "paid": false
+        "paid": true
     },
     {
         "purpose": "Pocket money",
         "amount": "200ghc",
         "date": "30/09/2025",
         "explanation": "My uncle gives me pocket money to keep so that i could buy something when i need",
-        "paid": false
+        "paid": true
     },
     {
         "purpose": "Starlink",
         "amount": "770ghc",
         "date": "30/09/2025",
         "explanation": "My uncle pays my starlink's monthly dues for me",
+        "paid": true
+    },
+    {
+        "purpose": "Food",
+        "amount": "1,300ghc",
+        "date": "31/10/2025",
+        "explanation": "My uncle helps me and my mom to fill our house with food so that we have more food until the end of the month",
+        "paid": false
+    },
+    {
+        "purpose": "Electricity",
+        "amount": "300ghc",
+        "date": "31/10/2025",
+        "explanation": "My uncle help me and my mom to pay our light bills every month",
+        "paid": false
+    },
+    {
+        "purpose": "Pocket money",
+        "amount": "200ghc",
+        "date": "31/10/2025",
+        "explanation": "My uncle gives me money to save in my pocket so that i can buy things i need",
+        "paid": false
+    },
+    {
+        "purpose": "Starlink",
+        "amount": "770ghc",
+        "date": "31/10/2025",
+        "explanation": "My uncle pays my starlink monthly due for me so that i can always have a better internet connection for class or a good communication",
+        "paid": false
+    },
+    {
+        "purpose": "X-ray",
+        "amount": "100ghc",
+        "date": "31/10/2025",
+        "explanation": "The surgeons said that my ankle injury is healing so i should wait ffor one more month to start walking fully on it so i want to take an x-ray and show them after the one month",
+        "paid": false
+    },
+    {
+        "purpose": "Two bags of charcoals",
+        "amount": "380ghc",
+        "date": "31/10/2025",
+        "explanation": "We have only one charcoal left and it will finish by the end of the month so i need my uncle to help me buy some at the end of the month",
         "paid": false
     }
 ]
