@@ -90,3 +90,94 @@
 |  Starlink  |  770ghc  |  31/10/2025  | My uncle pays my starlink monthly due for me so that i can always have a better internet connection for class or a good communication |  :x: 
 |  X-ray  |  100ghc  |  31/10/2025  | The surgeons said that my ankle injury is healing so i should wait ffor one more month to start walking fully on it so i want to take an x-ray and show them after the one month |  :x: 
 |  Two bags of charcoals  |  380ghc  |  31/10/2025  | We have only one charcoal left and it will finish by the end of the month so i need my uncle to help me buy some at the end of the month |  :x: 
+
+
+<!-- This is the code without error detection
+| Food | 1,300ghc | 31/10/2024 |  :thumbsup: 
+| Electricity | 300ghc | 31/10/2024 |  :thumbsup: 
+| Football shoe | 550ghc | 16/10/2024 |  :thumbsup: 
+| Pocket money | 200ghc | 31/10/2024 |  :thumbsup: 
+| Food | 1,300ghc | 29/11/2024 |  :thumbsup: 
+| Electricity | 300ghc | 29/11/2024 |  :thumbsup: 
+| Pocket money | 200ghc | 29/11/2024 |  :thumbsup: 
+| Charcoal | 180ghc | 29/11/2024 |  :thumbsup: 
+| Food | 1,300ghc | 30/12/2024 |  :thumbsup: 
+| Electricity | 300ghc | 30/12/2024 |  :thumbsup: 
+| Pocket money | 200ghc | 30/12/2024 |  :thumbsup: 
+| Extra food | 250ghc | 30/12/2024 |  :thumbsup: 
+| Mummy's shoe | 160ghc | 30/12/2024 |  :thumbsup: 
+| Charcoal | 180ghc | 30/12/2024 |  :thumbsup: 
+| Pizza | 130ghc | 30/12/2024 |  :thumbsup: 
+| Food | 1,300ghc | 30/01/2025 |  :thumbsup: 
+| Ankle Support | 300ghc |  |  :thumbsup: 
+| Starlink | 770ghc | 17/02/2025 |  :thumbsup: 
+| Food | 1,300ghc | 28/02/2025 |  :thumbsup: 
+| Electricity | 300ghc | 28/02/2025 |  :thumbsup: 
+| Pocket money | 200ghc | 28/02/2025 |  :thumbsup: 
+| Extra food | 150ghc | 28/02/2025 |  :thumbsup: 
+| Supplements | 215ghc | 17/02/2025 |  :thumbsup: 
+| Physio (6x) | 30ghc/ea | 17/02/2025 |  :thumbsup: 
+| Food | 1,300ghc | 31/03/2025 |  :thumbsup: 
+| Electricity | 300ghc | 31/03/2025 |  :thumbsup: 
+| Pocket Money | 200ghc | 31/03/2025 |  :thumbsup: 
+| Extra Food | 150ghc | 31/03/2025 |  :thumbsup: 
+| Starlink | 770ghc | 17/03/2025 |  :thumbsup: 
+| Fan | 300ghc | 17/03/2025 |  :thumbsup: 
+| X-ray | 100ghc | 31/03/2025 |  :thumbsup: 
+| A cast | 500ghc | 31/03/2025 |  :thumbsup: 
+| Food | 1,300ghc | 30/04/2025 |  :thumbsup: 
+| Electricity | 300ghc | 30/04/2025 |  :thumbsup: 
+| Extra food | 450ghc | 30/04/2025 |  :thumbsup: 
+| Pocket money | 200ghc | 30/04/2025 |  :thumbsup: 
+| Starlink internet | 770ghc | 17/04/2025 |  :thumbsup: 
+| X-ray | 100ghc | 30/04/2025 |  :thumbsup: 
+| Slippers | 150ghc | 30/04/2025 |  :thumbsup: 
+| Cast | 500ghc | 30/05/2025 |  :thumbsup: 
+| Food | 1,300ghc | 31/05/2025 |  :thumbsup: 
+| Electricity | 300ghc | 31/05/2025 |  :thumbsup: 
+| Pocket money | 200ghc | 31/05/2025 |  :thumbsup: 
+| Extra food | 450ghc | 31/05/2025 |  :thumbsup: 
+| Starlink | 770ghc | 17/05/2025 |  :thumbsup: 
+| X-ray | 100ghc | 30/05/2025 |  :thumbsup: 
+| Passport | 1,900ghc | 06/06/2025 |  :thumbsup: 
+| Starlink | 770ghc | 17/06/2025 |  :thumbsup: 
+| sponge and towel | 130ghc |  |  :thumbsup: 
+| X-ray | 100ghc | 13/06/2025 |  :thumbsup: 
+| X-ray | 100ghc | 20/06/2025 |  :thumbsup: 
+| Mom's health | 300ghc | 25/06/2025 |  :thumbsup: 
+| Food | 1,300ghc | 30/06/2025 |  :thumbsup: 
+| Electricity | 300ghc | 30/06/2025 |  :thumbsup: 
+| pocket money | 200ghc | 30/06/2025 |  :thumbsup: 
+| Extra Food | 450ghc | 30/06/2025 |  :thumbsup: 
+| Starlink due | 770ghc | 18/07/2025 |  :thumbsup: 
+| Food | 1,300ghc | 31/07/2025 |  :thumbsup: 
+| Electricity | 300ghc | 31/07/2025 |  :thumbsup: 
+| Pocket money | 200ghc | 31/07/2025 |  :thumbsup: 
+| Surgery Appointment | 800ghc | 25/07/2025 |  :thumbsup: 
+| Transportation to Kumasi | 200ghc | 25/07/2025 |  :thumbsup: 
+| Two bags of charcoal | 360ghc | 31/07/2025 |  :thumbsup: 
+| Transportation | 240ghc | ASAP |  :thumbsup: 
+| Affidavits | 140ghc | ASAP |  :thumbsup: 
+| Laptop Repair | 150ghc | 31/07/2025 |  :thumbsup: 
+| Food | 1,300ghc | 31/08/2025 |  :thumbsup: 
+| Electricity | 300ghc | 31/08/2025 |  :thumbsup: 
+| Pocket money | 200ghc | 31/08/2025 |  :thumbsup: 
+| Starlink | 770ghc | 18/08/2025 |  :thumbsup: 
+| Surgery | 6,000ghc | 09/08/2025 |  :thumbsup: 
+| Transportation | 700ghc | 10/08/2025 |  :thumbsup: 
+| Slippers | 150ghc | 11/08/2025 |  :thumbsup: 
+| repaired my phone | 150ghc | 11/08/2025 |  :thumbsup: 
+| x-ray | 300ghc | 12/08/2025 |  :thumbsup: 
+| My uncle sent me money | 500ghc | 17/08/2025 |  :thumbsup: 
+| Food | 1,300ghc | 30/09/2025 |  :thumbsup: 
+| Electricity | 300ghc | 30/09/2025 |  :thumbsup: 
+| Pocket money | 200ghc | 30/09/2025 |  :thumbsup: 
+| Starlink | 770ghc | 30/09/2025 |  :thumbsup: 
+| Food | 1,300ghc | 31/10/2025 |  :x: 
+| Electricity | 300ghc | 31/10/2025 |  :x: 
+| Pocket money | 200ghc | 31/10/2025 |  :x: 
+| Starlink | 770ghc | 31/10/2025 |  :x: 
+| X-ray | 100ghc | 31/10/2025 |  :x: 
+| Two bags of charcoals | 380ghc | 31/10/2025 |  :x: 
+ 
+-->

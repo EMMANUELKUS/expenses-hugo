@@ -6,3 +6,8 @@
 |---|---|---|---|---|
 {{ range .Site.Data.expenses }}| {{ if isset . "purpose" }} {{ .purpose }} {{ else }} MISSING {{ end }} | {{ if isset . "amount" }} {{ .amount }} {{ else }} MISSING {{ end }} | {{ if isset . "date" }} {{ .date }} {{ else }} MISSING {{ end }} | {{ .explanation }} | {{ if eq .paid true }} :thumbsup: {{ else if eq .paid false }} :x: {{ else }} ERROR {{ end }}
 {{ end }}
+
+<!-- This is the code without error detection
+{{ range .Site.Data.expenses }}| {{ .purpose }} | {{ .amount }} | {{ .date }} | {{ if eq .paid true }} :thumbsup: {{ else if eq .paid false }} :x: {{ end }}
+{{ end }} 
+-->

@@ -51,4 +51,16 @@ Templates always end with `.md`. After the templates is used to generate the art
 
 > Example: a template that generates HTML will have the ending `.html.md`
 
+## Bug Detection
+
+
+
+```
+            save file         run the command             search the file for ERROR
+[data file] ---------> [hugo] ---------------> [artefact] ----------> [search file]
+
+                                                                        ^ we discover here
+
+```
+
 
