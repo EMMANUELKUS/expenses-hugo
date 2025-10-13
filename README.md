@@ -56,6 +56,9 @@ Templates always end with `.md`. After the templates is used to generate the art
 
 
 ```
+If you want to search for an "ERROR", you firstly go into the data file and save it, after saving the file then you run "hugo" in the terminal, after running hugo and then you look for ERROR by going through the whole file OR after running hugo you can use a command called "grep". grep command can make it easy for you to serach for ERRORS without the need to go through the whole file.
+
+
             save file         run the command             search the file for ERROR
 [data file] ---------> [hugo] ---------------> [artefact] ----------> [search file]
 
