@@ -54,13 +54,19 @@ Templates always end with `.md`. After the templates is used to generate the art
 ## Bug Detection
 
 
+There are two types of bugs that can happen in an expense sheet:
+
+- [X] Bugs in the markdown (columns fused together, incorrect emoji codes, etc.)
+- [ ] Bugs in the content or in the information (2005 instead of 2025, Surgert instead of Surgery, purposee instead of purposed in the property name, missing amount)
+
+### Detecting content bugs
 
 ```
 If you want to search for an "ERROR", you firstly go into the data file and save it, after saving the file then you run "hugo" in the terminal, after running hugo and then you look for ERROR by going through the whole file OR after running hugo you can use a command called "grep". grep command can make it easy for you to serach for ERRORS without the need to go through the whole file.
 
 
-            save file         run the command             search the file for ERROR
-[data file] ---------> [hugo] ---------------> [artefact] ----------> [search file]
+            save file         run command             search for ERROR
+[json file] ---------> [hugo] -----------> [artefact] ----------> [content bug discovery]
 
                                                                         ^ we discover here
 
