@@ -57,7 +57,13 @@ Templates always end with `.md`. After the templates is used to generate the art
 There are two types of bugs that can happen in an expense sheet:
 
 - [X] Bugs in the markdown (columns fused together, incorrect emoji codes, etc.)
-- [ ] Bugs in the content or in the information (2005 instead of 2025, Surgert instead of Surgery, purposee instead of purposed in the property name, missing amount)
+- [-] Bugs in the content or in the information (2005 instead of 2025, Surgert instead of Surgery, purposee instead of purposed in the property name, missing amount)
+
+After we introduced the idea of using a JSON file for the information, we now have 3 subtypes of the the information bugs:
+
+- [X] A bug in the JSON itself `A`
+- [X] A bug in the way we use JSON to describe an expense `D`
+- [ ] A bug in information (i.e. error), for example wrong date, amount, or paid status
 
 ### Detecting content bugs
 
@@ -68,7 +74,7 @@ If you want to search for an "ERROR", you firstly go into the data file and save
             save file         run command             search for ERROR
 [json file] ---------> [hugo] -----------> [artefact] ----------> [content bug discovery]
 
-                                                                        ^ we discover here
+     A                   B                     C                        D
 
 ```
 

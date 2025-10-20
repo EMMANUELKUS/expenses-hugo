@@ -89,7 +89,7 @@
 |  Pocket money  |  200ghc  |  31/10/2025  | My uncle gives me money to save in my pocket so that i can buy things i need |  :x: 
 |  Starlink  |  770ghc  |  31/10/2025  | My uncle pays my starlink monthly due for me so that i can always have a better internet connection for class or a good communication |  :x: 
 |  X-ray  |  100ghc  |  31/10/2025  | The surgeons said that my ankle injury is healing so i should wait ffor one more month to start walking fully on it so i want to take an x-ray and show them after the one month |  :x: 
-|  Two bags of charcoals  |  380ghc  |  31/10/2025  | We have only one charcoal left and it will finish by the end of the month so i need my uncle to help me buy some at the end of the month |  :x: 
+|  Two bags of charcoals  |  3800ghc  |  31/10/2025  | We have only one charcoal left and it will finish by the end of the month so i need my uncle to help me buy some at the end of the month |  ERROR 
 
 
 <!-- This is the code without error detection
@@ -178,6 +178,6 @@
 | Pocket money | 200ghc | 31/10/2025 |  :x: 
 | Starlink | 770ghc | 31/10/2025 |  :x: 
 | X-ray | 100ghc | 31/10/2025 |  :x: 
-| Two bags of charcoals | 380ghc | 31/10/2025 |  :x: 
+| Two bags of charcoals | 3800ghc | 31/10/2025 | 
  
 -->
