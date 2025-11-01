@@ -588,15 +588,8 @@
         "paid": false
     },
     {
-        "purpose": "X-ray",
-        "amount": "100ghc",
-        "date": "31/10/2025",
-        "explanation": "The surgeons said that my ankle injury is healing so i should wait ffor one more month to start walking fully on it so i want to take an x-ray and show them after the one month",
-        "paid": false
-    },
-    {
         "purpose": "Two bags of charcoals",
-        "amount": "3800ghc",
+        "amount": "360ghc",
         "date": "31/10/2025",
         "explanation": "We have only one charcoal left and it will finish by the end of the month so i need my uncle to help me buy some at the end of the month",
         "paid": false
