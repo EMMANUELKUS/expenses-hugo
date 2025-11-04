@@ -20,7 +20,6 @@ It can be found at [data/expenses.json](https://github.com/EMMANUELKUS/expenses-
 
 _How does HUGO know how to transform JSON into markdown?_
 
-
 It uses the data as instructed in the template file.
 
 _Where is the template file located?_

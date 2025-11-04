@@ -1,0 +1,50 @@
+{
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "purpose": {
+                "type": "string",
+                "enum": [
+                    "Food",
+                    "Electricity",
+                    "Medical",
+                    "Starlink",
+                    "Charcoal",
+                    "Hygiene",
+                    "Football",
+                    "Pocket money",
+                    "Mummy's shoe",
+                    "Fan",
+                    "Slippers",
+                    "Passport",
+                    "Transportation",
+                    "Affidavits",
+                    "Repair",
+                    "Pizza"
+                ]
+            },
+            "amount": {
+                "type": [
+                    "string",
+                    "number"
+                ]
+            },
+            "date": {
+                "type": "string"
+            },
+            "explanation": {
+                "type": "string"
+            },
+            "paid": {
+                "type": "boolean"
+            }
+        },
+        "required": [
+            "purpose",
+            "amount",
+            "paid"
+        ],
+        "additionalProperties": false
+    }
+}
