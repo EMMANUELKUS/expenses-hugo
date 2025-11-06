@@ -84,7 +84,7 @@
         "paid": true
     },
     {
-        "purpose": "Mummy's shoe",
+        "purpose": "Gift",
         "amount": "160ghc",
         "date": "30/12/2024",
         "explanation": "My uncle to help me suprise my mom with a new pair of shoe",
@@ -98,10 +98,10 @@
         "paid": true
     },
     {
-        "purpose": "Pizza",
+        "purpose": "Gift",
         "amount": "130ghc",
         "date": "30/12/2024",
-        "explanation": "Want to get mommy some pizza for christmas",
+        "explanation": "It was christmas and my uncle helped me to get my mom a pizza and she ate pizza for the first time",
         "paid": true
     },
     {
@@ -203,7 +203,7 @@
         "paid": true
     },
     {
-        "purpose": "Fan",
+        "purpose": "Electronics",
         "amount": "300ghc",
         "date": "17/03/2025",
         "explanation": "My uncle helping me to get a fan because lately the heat in my room is too much",
@@ -266,10 +266,10 @@
         "paid": true
     },
     {
-        "purpose": "Slippers",
+        "purpose": "Personal",
         "amount": "150ghc",
         "date": "30/04/2025",
-        "explanation": "My uncle to help me buy a new slippers because the slippers he bought for me last year has become old and spoiled",
+        "explanation": "My uncle to help me buy a new slippers because the slippers he bought for me last year has become old and worn out",
         "paid": true
     },
     {
@@ -322,7 +322,7 @@
         "paid": true
     },
     {
-        "purpose": "Passport",
+        "purpose": "Legal",
         "amount": "1,900ghc",
         "date": "06/06/2025",
         "explanation": "My uncle helped me to get a new passport",
@@ -448,14 +448,14 @@
         "paid": true
     },
     {
-        "purpose": "Affidavits",
+        "purpose": "Legal",
         "amount": "140ghc",
         "date": "ASAP",
-        "explanation": "My uncle helping my mom to get an affidavits at the passport office",
+        "explanation": "My uncle helping my mom to get an affidavits at the passport office to witness that she is my biological mom and only parent",
         "paid": true
     },
     {
-        "purpose": "Repair",
+        "purpose": "Maintenance",
         "amount": "150ghc",
         "date": "31/07/2025",
         "explanation": "My uncle helped me repair my laptop when it suddenly stopped charging",
@@ -504,17 +504,17 @@
         "paid": true
     },
     {
-        "purpose": "Slippers",
+        "purpose": "Personal",
         "amount": "150ghc",
         "date": "11/08/2025",
         "explanation": "I used 150ghc from the 700ghc my grandma gave me to buy slippers because my slippers was worn out",
         "paid": true
     },
     {
-        "purpose": "Repair",
+        "purpose": "Maintenance",
         "amount": "150ghc",
         "date": "11/08/2025",
-        "explanation": "I also used another 150ghc from the same 700ghc my grandma gave me to repair my phone's charging port",
+        "explanation": "I also used another 150ghc from the same 700ghc my grandma gave me to repair my phone's charging port because my phone was not charging and the port was spoiled",
         "paid": true
     },
     {
@@ -564,34 +564,69 @@
         "amount": "1,300ghc",
         "date": "31/10/2025",
         "explanation": "My uncle helps me and my mom to fill our house with food so that we have more food until the end of the month",
-        "paid": false
+        "paid": true
     },
     {
         "purpose": "Electricity",
         "amount": "300ghc",
         "date": "31/10/2025",
         "explanation": "My uncle help me and my mom to pay our light bills every month",
-        "paid": false
+        "paid": true
     },
     {
         "purpose": "Pocket money",
         "amount": "200ghc",
         "date": "31/10/2025",
         "explanation": "My uncle gives me money to save in my pocket so that i can buy things i need",
-        "paid": false
+        "paid": true
     },
     {
         "purpose": "Starlink",
         "amount": "770ghc",
         "date": "31/10/2025",
         "explanation": "My uncle pays my starlink monthly due for me so that i can always have a better internet connection for class or a good communication",
+        "paid": true
+    },
+    {
+        "purpose": "Food",
+        "amount": "1,300ghc",
+        "date": "30/11/2025",
+        "explanation": "Every month we stock the house with food, we get bags of cassava, plantain, rice and yam and some other things needed to make food so we that we don't run out of food until the month ends",
         "paid": false
     },
     {
-        "purpose": "Charcoal",
-        "amount": "360ghc",
-        "date": "31/10/2025",
-        "explanation": "We have only one charcoal left and it will finish by the end of the month so i need my uncle to help me buy some at the end of the month",
+        "purpose": "Electricity",
+        "amount": "300ghc",
+        "date": "30/11/2025",
+        "explanation": "Every month my uncle helps us to pay for our electricity so that i and my mom can have light always",
+        "paid": false
+    },
+    {
+        "purpose": "Pocket money",
+        "amount": "200ghc",
+        "date": "30/11/2025",
+        "explanation": "My uncle gives me money to keep in my pocket so that whenever i need something i can buy",
+        "paid": false
+    },
+    {
+        "purpose": "Starlink",
+        "amount": "770ghc",
+        "date": "30/11/2025",
+        "explanation": "Every month my uncle pays my starlink due so that i can recharge my starlink and have class with him all the time and also i can communicate with him whenever needed",
+        "paid": false
+    },
+    {
+        "purpose" :"Charcoal",
+        "amount": "380ghc",
+        "date": "30/11/2025",
+        "explanation": "It's my mom's responsibility to pay for charcoal whenever we need some but last month was a lot of challenges, my brother got sick and my mom paid for all the bills and also some difficulties regarding our electricity so she couldn't pay for charcoal",
+        "paid": false
+    },
+    {
+        "purpose": "Gift",
+        "amount": "400GHC",
+        "date": "30/11/2025",
+        "explanation":" My uncle's gonna gift me money to pay for my loan because last month things got bad for my mom and i and i needed to support so i borrowed money to support because we had no money left",
         "paid": false
     }
 ]
