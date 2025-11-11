@@ -22,20 +22,31 @@
                     "Maintenance"
                 ]
             },
-            "amount": {
-                "type": [
-                    "string",
-                    "number"
-                ]
+            "amount": {  
+                "anyOf": [    
+                    { 
+                        "type": "string",
+                        "pattern": "ghc$|ghc/ea$"
+                    },
+                    { 
+                        "type": "number"
+                    }  
+                ],
+                "markdownDescription": "Either the _full amount_ or the _unit amount_ for the expense. Note that if this is the unit amount, then you need to provide a value for the `quantity` property."
             },
             "date": {
-                "type": "string"
+                "type": "string",
+                "markdownDescription": "The _date_ when the payment is expected"
             },
             "explanation": {
                 "type": "string"
             },
             "paid": {
                 "type": "boolean"
+            },
+            "quantity": {
+                "type": "integer",
+                "minimum": 4
             }
         },
         "required": [
@@ -44,5 +55,5 @@
             "paid"
         ],
         "additionalProperties": false
-    }
+    }  
 }

@@ -78,3 +78,16 @@ If you want to search for an "ERROR", you firstly go into the data file and save
 ```
 
 
+
+## Things we talked about today you can add to your notes
+
+- description and markdownDescription :thumbsup:
+- regular expressions
+- Ctrl+Shift+O for navigating JSON data in vscode
+- anyOf
+- pattern
+
+## assignment
+
+- Add an optional property named quantity to the expense object schema
+- Commit and push the changes in the HUGO expense project with a meaningful commit message

@@ -164,6 +164,7 @@
         "purpose": "Medical",
         "amount": "30ghc/ea",
         "date": "17/02/2025",
+        "quantity": 4,
         "explanation": "Physio treatment to heal the pains in my ankle",
         "paid": true
     },
@@ -624,7 +625,7 @@
     },
     {
         "purpose": "Gift",
-        "amount": "400GHC",
+        "amount": "400ghc",
         "date": "30/11/2025",
         "explanation":" My uncle's gonna gift me money to pay for my loan because last month things got bad for my mom and i and i needed to support so i borrowed money to support because we had no money left",
         "paid": false
