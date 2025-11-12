@@ -4,97 +4,103 @@
 
 | Purpose | Amount | Date | Explanation |Paid | 
 |---|---|---|---|---|
-|  Food  |  1,300ghc  |  31/10/2024  | Stocking the house with food so that we don't lack food or short food before the end of the month |  :thumbsup: 
-|  Electricity  |  300ghc  |  31/10/2024  | Buying as much electricity so that we always have light until the end of the month |  :thumbsup: 
-|  Football shoe  |  550ghc  |  16/10/2024  | I need a football shoe to play football,18th of this month I am traveling to Accra for a trials |  :thumbsup: 
-|  Pocket money  |  200ghc  |  31/10/2024  | Pocket money, the money I keep in my pocket so that when I need something i can buy |  :thumbsup: 
-|  Food  |  1,300ghc  |  29/11/2024  | My uncle helping my mom and I to stock the house with food |  :thumbsup: 
-|  Electricity  |  300ghc  |  29/11/2024  | My uncle helping us buy enough electricity so that we don't run out of light |  :thumbsup: 
-|  Pocket money  |  200ghc  |  29/11/2024  | My uncle gives me pocket money that helps me to buy something when I need it |  :thumbsup: 
-|  Charcoal  |  180ghc  |  29/11/2024  | My uncle to help me buy bags of charcoal so that i can always get fire to cook |  :thumbsup: 
-|  Food  |  1,300ghc  |  30/12/2024  | My uncle helping me to buy food to stock the house |  :thumbsup: 
-|  Electricity  |  300ghc  |  30/12/2024  | My uncle to help me buy much electricity to have light until the end of the month |  :thumbsup: 
-|  Pocket money  |  200ghc  |  30/12/2024  | My uncle gives me money to keep in my pocket,whenever i need something then i can buy |  :thumbsup: 
-|  Extra food  |  250ghc  |  30/12/2024  | My uncle to help me get one full chicken to have much protein |  :thumbsup: 
-|  Mummy's shoe  |  160ghc  |  30/12/2024  | My uncle to help me suprise my mom with a new pair of shoe |  :thumbsup: 
-|  Charcoal  |  180ghc  |  30/12/2024  | Uncle to help me buy one bag of charcoal so that i can always cook in the house |  :thumbsup: 
-|  Pizza  |  130ghc  |  30/12/2024  | Want to get mommy some pizza for christmas |  :thumbsup: 
-|  Food  |  1,300ghc  |  30/01/2025  | Stocking the house with food until the end of the month |  :thumbsup: 
-|  Ankle Support  |  300ghc  |    | Ankle Support is a medical item to wear on my ankle to support my ankle and reduces pains |  :thumbsup: 
-|  Starlink  |  770ghc  |  17/02/2025  | satelite to establish a good internet connection |  :thumbsup: 
-|  Food  |  1,300ghc  |  28/02/2025  | Stocking the house with food until the end of the month |  :thumbsup: 
-|  Electricity  |  300ghc  |  28/02/2025  | My uncle buys electricity for me so that i don't run out of electricity before the month ends |  :thumbsup: 
-|  Pocket money  |  200ghc  |  28/02/2025  | Money to keep in my pocket so that whenever i need something i could buy |  :thumbsup: 
-|  Extra food  |  150ghc  |  28/02/2025  | Buying extra food to gain higher amount of protein |  :thumbsup: 
-|  Supplements  |  215ghc  |  17/02/2025  | My medical supplements uncle bought for me is almost finished and i need uncle to help me again |  :thumbsup: 
-|  Physio (6x)  |  30ghc/ea  |  17/02/2025  | Physio treatment to heal the pains in my ankle |  :thumbsup: 
-|  Food  |  1,300ghc  |  31/03/2025  | Stocking the house with food until the end of the month |  :thumbsup: 
-|  Electricity  |  300ghc  |  31/03/2025  | Uncle buys electricity for us so that we don't run out of electricity before the month ends |  :thumbsup: 
-|  Pocket Money  |  200ghc  |  31/03/2025  | Money to keep in my pocket so that i can buy something whenever needed |  :thumbsup: 
-|  Extra Food  |  150ghc  |  31/03/2025  | Buying extra food to gain higher amount of protein |  :thumbsup: 
-|  Starlink  |  770ghc  |  17/03/2025  | Starlink satelite to get a better internet connection |  :thumbsup: 
-|  Fan  |  300ghc  |  17/03/2025  | My uncle helping me to get a fan because lately the heat in my room is too much |  :thumbsup: 
-|  X-ray  |  100ghc  |  31/03/2025  | An x-ray to confirm the state of my feet |  :thumbsup: 
-|  A cast  |  500ghc  |  31/03/2025  | Uncle providing me with a cast to help heal my feet quicker and proper |  :thumbsup: 
-|  Food  |  1,300ghc  |  30/04/2025  | My uncle help provide food for me and my mother |  :thumbsup: 
-|  Electricity  |  300ghc  |  30/04/2025  | My uncle buys electricity for me and my mom so that we don't run out of light before the month ends |  :thumbsup: 
-|  Extra food  |  450ghc  |  30/04/2025  | My uncle help me get additional food that provides protein and strenght for my body |  :thumbsup: 
-|  Pocket money  |  200ghc  |  30/04/2025  | Pocket money so that i can buy something when i need |  :thumbsup: 
-|  Starlink internet  |  770ghc  |  17/04/2025  | To get a better internet connection |  :thumbsup: 
-|  X-ray  |  100ghc  |  30/04/2025  | My uncle to help me take an x-ray to see how far my feet has been |  :thumbsup: 
-|  Slippers  |  150ghc  |  30/04/2025  | My uncle to help me buy a new slippers because the slippers he bought for me last year has become old and spoiled |  :thumbsup: 
-|  Cast  |  500ghc  |  30/05/2025  | After the first cast became soft and was not functioning efficiently, my uncle gave me money to make a new cast |  :thumbsup: 
-|  Food  |  1,300ghc  |  31/05/2025  | My uncle provide food for me and my mother for the whole month |  :thumbsup: 
-|  Electricity  |  300ghc  |  31/05/2025  | My uncle buys electricity for me and my mom |  :thumbsup: 
-|  Pocket money  |  200ghc  |  31/05/2025  | Uncle gives me pocket money so that i can be able to buy something when i need |  :thumbsup: 
-|  Extra food  |  450ghc  |  31/05/2025  | Uncle to help me buy additional food for my body to gain protein and function well |  :thumbsup: 
-|  Starlink  |  770ghc  |  17/05/2025  | My uncle helps me recharge my starlink to be able to get good connection all the time |  :thumbsup: 
-|  X-ray  |  100ghc  |  30/05/2025  | My uncle to help me have an xray to see the improvement in my ankle fracture |  :thumbsup: 
-|  Passport  |  1,900ghc  |  06/06/2025  | My uncle helped me to get a new passport |  :thumbsup: 
-|  Starlink  |  770ghc  |  17/06/2025  | Uncle recharges my starlink for me so that i get a proper internet connection for studies |  :thumbsup: 
-|  sponge and towel  |  130ghc  |    | My uncle to to help me buy a new sponge and a new towel |  :thumbsup: 
-|  X-ray  |  100ghc  |  13/06/2025  | After wearing the new cast my uncle gave me money to have an x-ray to check how the injury was improving |  :thumbsup: 
-|  X-ray  |  100ghc  |  20/06/2025  | My uncle helped me had another x-ray to check again hw the injury was healing |  :thumbsup: 
-|  Mom's health  |  300ghc  |  25/06/2025  | My uncle helped my mom with some money to go o the hospital |  :thumbsup: 
-|  Food  |  1,300ghc  |  30/06/2025  | Uncle to provide food for me and my mom for the month |  :thumbsup: 
-|  Electricity  |  300ghc  |  30/06/2025  | My uncle helping me and my mom gets electricity throughout the month |  :thumbsup: 
-|  pocket money  |  200ghc  |  30/06/2025  | My uncle gives me pocket money so that i can buy things i need |  :thumbsup: 
-|  Extra Food  |  450ghc  |  30/06/2025  | My uncle buys extra food for me to gain protein and my body to function  well |  :thumbsup: 
-|  Starlink due  |  770ghc  |  18/07/2025  | My uncle help me to pay starlink monthly due to get a better internet connection always |  :thumbsup: 
-|  Food  |  1,300ghc  |  31/07/2025  | My uncle provides food for me and my mom for the month |  :thumbsup: 
-|  Electricity  |  300ghc  |  31/07/2025  | My uncle helps me and my mom to get enough electricity for the month |  :thumbsup: 
-|  Pocket money  |  200ghc  |  31/07/2025  | My uncle provide sends me pocket money so that i can buy something when i need |  :thumbsup: 
-|  Surgery Appointment  |  800ghc  |  25/07/2025  | My uncle to help me go and and meet a surgeon to discuss about my ankle |  :thumbsup: 
-|  Transportation to Kumasi  |  200ghc  |  25/07/2025  | My uncle is gonna help me to travel to kumasi to meet a surgeon |  :thumbsup: 
-|  Two bags of charcoal  |  360ghc  |  31/07/2025  | My uncle to help me get two bags of charcoal to be cooking for at least three months but if he want he can buy one |  :thumbsup: 
-|  Transportation  |  240ghc  |  ASAP  | My uncle gonna help me travel to sunyani tthe capital town in our region to conclude my passport |  :thumbsup: 
-|  Affidavits  |  140ghc  |  ASAP  | My uncle helping my mom to get an affidavits at the passport office |  :thumbsup: 
-|  Laptop Repair  |  150ghc  |  31/07/2025  | My uncle helped me repair my laptop when it suddenly stopped charging |  :thumbsup: 
-|  Food  |  1,300ghc  |  31/08/2025  | My uncle helps me to stock the house with food until the end of the month |  :thumbsup: 
-|  Electricity  |  300ghc  |  31/08/2025  | My uncle helps buy electricity for us |  :thumbsup: 
-|  Pocket money  |  200ghc  |  31/08/2025  | My uncle gives me money to keep in my pocket to use it to buy something when needed |  :thumbsup: 
-|  Starlink  |  770ghc  |  18/08/2025  | My uncle help me pay for my starlink monthly due |  :thumbsup: 
-|  Surgery  |  6,000ghc  |  09/08/2025  | My uncle and my father's family coming together to help me have a surgery to heal my un-union ankle fracture |  :thumbsup: 
-|  Transportation  |  700ghc  |  10/08/2025  | My grandma gave me 700ghc for the transportation to kumasi for the surgery |  :thumbsup: 
-|  Slippers  |  150ghc  |  11/08/2025  | I used 150ghc from the 700ghc my grandma gave me to buy slippers because my slippers was worn out |  :thumbsup: 
-|  repaired my phone  |  150ghc  |  11/08/2025  | I also used another 150ghc from the same 700ghc my grandma gave me to repair my phone's charging port |  :thumbsup: 
-|  x-ray  |  300ghc  |  12/08/2025  | After the surgery they asked me to take an x-ray in the hospital |  :thumbsup: 
-|  My uncle sent me money  |  500ghc  |  17/08/2025  | I ran out of money while still in kumasi and my uncle sent me money |  :thumbsup: 
-|  Food  |  1,300ghc  |  30/09/2025  | My uncle helps me stock my house with food so that i don't run out of food before the end of the month |  :thumbsup: 
-|  Electricity  |  300ghc  |  30/09/2025  | My uncle buys electricity for me so that i always have electriity |  :thumbsup: 
-|  Pocket money  |  200ghc  |  30/09/2025  | My uncle gives me pocket money to keep so that i could buy something when i need |  :thumbsup: 
-|  Starlink  |  770ghc  |  30/09/2025  | My uncle pays my starlink's monthly dues for me |  :thumbsup: 
-|  Food  |  1,300ghc  |  31/10/2025  | My uncle helps me and my mom to fill our house with food so that we have more food until the end of the month |  :x: 
-|  Electricity  |  300ghc  |  31/10/2025  | My uncle help me and my mom to pay our light bills every month |  :x: 
-|  Pocket money  |  200ghc  |  31/10/2025  | My uncle gives me money to save in my pocket so that i can buy things i need |  :x: 
-|  Starlink  |  770ghc  |  31/10/2025  | My uncle pays my starlink monthly due for me so that i can always have a better internet connection for class or a good communication |  :x: 
-|  Two bags of charcoals  |  360ghc  |  31/10/2025  | We have only one charcoal left and it will finish by the end of the month so i need my uncle to help me buy some at the end of the month |  :x: 
+|  Food  |  1,300ghc  |  31/10/2024  | Stocking the house with food so that we don't lack food or short food before the end of the month |  :thumbsup:  | NA
+|  Electricity  |  300ghc  |  31/10/2024  | Buying as much electricity so that we always have light until the end of the month |  :thumbsup:  | NA
+|  Football  |  550ghc  |  16/10/2024  | I need a football shoe to play football,18th of this month I am traveling to Accra for a trials |  :thumbsup:  | NA
+|  Pocket money  |  200ghc  |  31/10/2024  | Pocket money, the money I keep in my pocket so that when I need something i can buy |  :thumbsup:  | NA
+|  Food  |  1,300ghc  |  29/11/2024  | My uncle helping my mom and I to stock the house with food |  :thumbsup:  | NA
+|  Electricity  |  300ghc  |  29/11/2024  | My uncle helping us buy enough electricity so that we don't run out of light |  :thumbsup:  | NA
+|  Pocket money  |  200ghc  |  29/11/2024  | My uncle gives me pocket money that helps me to buy something when I need it |  :thumbsup:  | NA
+|  Charcoal  |  180ghc  |  29/11/2024  | My uncle to help me buy bags of charcoal so that i can always get fire to cook |  :thumbsup:  | NA
+|  Food  |  1,300ghc  |  30/12/2024  | My uncle helping me to buy food to stock the house |  :thumbsup:  | NA
+|  Electricity  |  300ghc  |  30/12/2024  | My uncle to help me buy much electricity to have light until the end of the month |  :thumbsup:  | NA
+|  Pocket money  |  200ghc  |  30/12/2024  | My uncle gives me money to keep in my pocket,whenever i need something then i can buy |  :thumbsup:  | NA
+|  Hygiene  |  250ghc  |  30/12/2024  | My uncle to help me get one full chicken to have much protein |  :thumbsup:  | NA
+|  Gift  |  160ghc  |  30/12/2024  | My uncle to help me suprise my mom with a new pair of shoe |  :thumbsup:  | NA
+|  Charcoal  |  180ghc  |  30/12/2024  | Uncle to help me buy one bag of charcoal so that i can always cook in the house |  :thumbsup:  | NA
+|  Gift  |  130ghc  |  30/12/2024  | It was christmas and my uncle helped me to get my mom a pizza and she ate pizza for the first time |  :thumbsup:  | NA
+|  Food  |  1,300ghc  |  30/01/2025  | Stocking the house with food until the end of the month |  :thumbsup:  | NA
+|  Medical  |  300ghc  |    | Ankle Support is a medical item to wear on my ankle to support my ankle and reduces pains |  :thumbsup:  | NA
+|  Starlink  |  770ghc  |  17/02/2025  | satelite to establish a good internet connection |  :thumbsup:  | NA
+|  Food  |  1,300ghc  |  28/02/2025  | Stocking the house with food until the end of the month |  :thumbsup:  | NA
+|  Electricity  |  300ghc  |  28/02/2025  | My uncle buys electricity for me so that i don't run out of electricity before the month ends |  :thumbsup:  | NA
+|  Pocket money  |  200ghc  |  28/02/2025  | Money to keep in my pocket so that whenever i need something i could buy |  :thumbsup:  | NA
+|  Hygiene  |  150ghc  |  28/02/2025  | Buying extra food to gain higher amount of protein |  :thumbsup:  | NA
+|  Medical  |  215ghc  |  17/02/2025  | My medical supplements uncle bought for me is almost finished and i need uncle to help me again |  :thumbsup:  | NA
+|  Medical  |  30ghc/ea  |  17/02/2025  | Physio treatment to heal the pains in my ankle |  :thumbsup:  | 4
+|  Food  |  1,300ghc  |  31/03/2025  | Stocking the house with food until the end of the month |  :thumbsup:  | NA
+|  Electricity  |  300ghc  |  31/03/2025  | Uncle buys electricity for us so that we don't run out of electricity before the month ends |  :thumbsup:  | NA
+|  Pocket money  |  200ghc  |  31/03/2025  | Money to keep in my pocket so that i can buy something whenever needed |  :thumbsup:  | NA
+|  Hygiene  |  150ghc  |  31/03/2025  | Buying extra food to gain higher amount of protein |  :thumbsup:  | NA
+|  Starlink  |  770ghc  |  17/03/2025  | Starlink satelite to get a better internet connection |  :thumbsup:  | NA
+|  Electronics  |  300ghc  |  17/03/2025  | My uncle helping me to get a fan because lately the heat in my room is too much |  :thumbsup:  | NA
+|  Medical  |  100ghc  |  31/03/2025  | An x-ray to confirm the state of my feet |  :thumbsup:  | NA
+|  Medical  |  500ghc  |  31/03/2025  | Uncle providing me with a cast to help heal my feet quicker and proper |  :thumbsup:  | NA
+|  Food  |  1,300ghc  |  30/04/2025  | My uncle help provide food for me and my mother |  :thumbsup:  | NA
+|  Electricity  |  300ghc  |  30/04/2025  | My uncle buys electricity for me and my mom so that we don't run out of light before the month ends |  :thumbsup:  | NA
+|  Hygiene  |  450ghc  |  30/04/2025  | My uncle help me get additional food that provides protein and strenght for my body |  :thumbsup:  | NA
+|  Pocket money  |  200ghc  |  30/04/2025  | Pocket money so that i can buy something when i need |  :thumbsup:  | NA
+|  Starlink  |  770ghc  |  17/04/2025  | To get a better internet connection |  :thumbsup:  | NA
+|  Medical  |  100ghc  |  30/04/2025  | My uncle to help me take an x-ray to see how far my feet has been |  :thumbsup:  | NA
+|  Personal  |  150ghc  |  30/04/2025  | My uncle to help me buy a new slippers because the slippers he bought for me last year has become old and worn out |  :thumbsup:  | NA
+|  Medical  |  500ghc  |  30/05/2025  | After the first cast became soft and was not functioning efficiently, my uncle gave me money to make a new cast |  :thumbsup:  | NA
+|  Food  |  1,300ghc  |  31/05/2025  | My uncle provide food for me and my mother for the whole month |  :thumbsup:  | NA
+|  Electricity  |  300ghc  |  31/05/2025  | My uncle buys electricity for me and my mom |  :thumbsup:  | NA
+|  Pocket money  |  200ghc  |  31/05/2025  | Uncle gives me pocket money so that i can be able to buy something when i need |  :thumbsup:  | NA
+|  Hygiene  |  450ghc  |  31/05/2025  | Uncle to help me buy additional food for my body to gain protein and function well |  :thumbsup:  | NA
+|  Starlink  |  770ghc  |  17/05/2025  | My uncle helps me recharge my starlink to be able to get good connection all the time |  :thumbsup:  | NA
+|  Medical  |  100ghc  |  30/05/2025  | My uncle to help me have an xray to see the improvement in my ankle fracture |  :thumbsup:  | NA
+|  Legal  |  1,900ghc  |  06/06/2025  | My uncle helped me to get a new passport |  :thumbsup:  | NA
+|  Starlink  |  770ghc  |  17/06/2025  | Uncle recharges my starlink for me so that i get a proper internet connection for studies |  :thumbsup:  | NA
+|  Hygiene  |  130ghc  |    | My uncle to to help me buy a new sponge and a new towel |  :thumbsup:  | NA
+|  Medical  |  100ghc  |  13/06/2025  | After wearing the new cast my uncle gave me money to have an x-ray to check how the injury was improving |  :thumbsup:  | NA
+|  Medical  |  100ghc  |  20/06/2025  | My uncle helped me had another x-ray to check again hw the injury was healing |  :thumbsup:  | NA
+|  Medical  |  300ghc  |  25/06/2025  | My uncle helped my mom with some money to go o the hospital |  :thumbsup:  | NA
+|  Food  |  1,300ghc  |  30/06/2025  | Uncle to provide food for me and my mom for the month |  :thumbsup:  | NA
+|  Electricity  |  300ghc  |  30/06/2025  | My uncle helping me and my mom gets electricity throughout the month |  :thumbsup:  | NA
+|  Pocket money  |  200ghc  |  30/06/2025  | My uncle gives me pocket money so that i can buy things i need |  :thumbsup:  | NA
+|  Hygiene  |  450ghc  |  30/06/2025  | My uncle buys extra food for me to gain protein and my body to function  well |  :thumbsup:  | NA
+|  Starlink  |  770ghc  |  18/07/2025  | My uncle help me to pay starlink monthly due to get a better internet connection always |  :thumbsup:  | NA
+|  Food  |  1,300ghc  |  31/07/2025  | My uncle provides food for me and my mom for the month |  :thumbsup:  | NA
+|  Electricity  |  300ghc  |  31/07/2025  | My uncle helps me and my mom to get enough electricity for the month |  :thumbsup:  | NA
+|  Pocket money  |  200ghc  |  31/07/2025  | My uncle provide sends me pocket money so that i can buy something when i need |  :thumbsup:  | NA
+|  Medical  |  800ghc  |  25/07/2025  | My uncle to help me go and and meet a surgeon to discuss about my ankle |  :thumbsup:  | NA
+|  Transportation  |  200ghc  |  25/07/2025  | My uncle is gonna help me to travel to kumasi to meet a surgeon |  :thumbsup:  | NA
+|  Charcoal  |  360ghc  |  31/07/2025  | My uncle to help me get two bags of charcoal to be cooking for at least three months but if he want he can buy one |  :thumbsup:  | NA
+|  Transportation  |  240ghc  |  ASAP  | My uncle gonna help me travel to sunyani tthe capital town in our region to conclude my passport |  :thumbsup:  | NA
+|  Legal  |  140ghc  |  ASAP  | My uncle helping my mom to get an affidavits at the passport office to witness that she is my biological mom and only parent |  :thumbsup:  | NA
+|  Maintenance  |  150ghc  |  31/07/2025  | My uncle helped me repair my laptop when it suddenly stopped charging |  :thumbsup:  | NA
+|  Food  |  1,300ghc  |  31/08/2025  | My uncle helps me to stock the house with food until the end of the month |  :thumbsup:  | NA
+|  Electricity  |  300ghc  |  31/08/2025  | My uncle helps buy electricity for us |  :thumbsup:  | NA
+|  Pocket money  |  200ghc  |  31/08/2025  | My uncle gives me money to keep in my pocket to use it to buy something when needed |  :thumbsup:  | NA
+|  Starlink  |  770ghc  |  18/08/2025  | My uncle help me pay for my starlink monthly due |  :thumbsup:  | NA
+|  Medical  |  6,000ghc  |  09/08/2025  | My uncle and my father's family coming together to help me have a surgery to heal my un-union ankle fracture |  :thumbsup:  | NA
+|  Transportation  |  700ghc  |  10/08/2025  | My grandma gave me 700ghc for the transportation to kumasi for the surgery |  :thumbsup:  | NA
+|  Personal  |  150ghc  |  11/08/2025  | I used 150ghc from the 700ghc my grandma gave me to buy slippers because my slippers was worn out |  :thumbsup:  | NA
+|  Maintenance  |  150ghc  |  11/08/2025  | I also used another 150ghc from the same 700ghc my grandma gave me to repair my phone's charging port because my phone was not charging and the port was spoiled |  :thumbsup:  | NA
+|  Medical  |  300ghc  |  12/08/2025  | After the surgery they asked me to take an x-ray in the hospital |  :thumbsup:  | NA
+|  Pocket money  |  500ghc  |  17/08/2025  | I ran out of money while still in kumasi and my uncle sent me money |  :thumbsup:  | NA
+|  Food  |  1,300ghc  |  30/09/2025  | My uncle helps me stock my house with food so that i don't run out of food before the end of the month |  :thumbsup:  | NA
+|  Electricity  |  300ghc  |  30/09/2025  | My uncle buys electricity for me so that i always have electriity |  :thumbsup:  | NA
+|  Pocket money  |  200ghc  |  30/09/2025  | My uncle gives me pocket money to keep so that i could buy something when i need |  :thumbsup:  | NA
+|  Starlink  |  770ghc  |  30/09/2025  | My uncle pays my starlink's monthly dues for me |  :thumbsup:  | NA
+|  Food  |  1,300ghc  |  31/10/2025  | My uncle helps me and my mom to fill our house with food so that we have more food until the end of the month |  :thumbsup:  | NA
+|  Electricity  |  300ghc  |  31/10/2025  | My uncle help me and my mom to pay our light bills every month |  :thumbsup:  | NA
+|  Pocket money  |  200ghc  |  31/10/2025  | My uncle gives me money to save in my pocket so that i can buy things i need |  :thumbsup:  | NA
+|  Starlink  |  770ghc  |  31/10/2025  | My uncle pays my starlink monthly due for me so that i can always have a better internet connection for class or a good communication |  :thumbsup:  | NA
+|  Food  |  1,300ghc  |  30/11/2025  | Every month we stock the house with food, we get bags of cassava, plantain, rice and yam and some other things needed to make food so we that we don't run out of food until the month ends |  :x:  | NA
+|  Electricity  |  300ghc  |  30/11/2025  | Every month my uncle helps us to pay for our electricity so that i and my mom can have light always |  :x:  | NA
+|  Pocket money  |  200ghc  |  30/11/2025  | My uncle gives me money to keep in my pocket so that whenever i need something i can buy |  :x:  | NA
+|  Starlink  |  770ghc  |  30/11/2025  | Every month my uncle pays my starlink due so that i can recharge my starlink and have class with him all the time and also i can communicate with him whenever needed |  :x:  | NA
+|  Charcoal  |  380ghc  |  30/11/2025  | It's my mom's responsibility to pay for charcoal whenever we need some but last month was a lot of challenges, my brother got sick and my mom paid for all the bills and also some difficulties regarding our electricity so she couldn't pay for charcoal |  :x:  | NA
+|  Gift  |  400ghc  |  30/11/2025  |  My uncle's gonna gift me money to pay for my loan because last month things got bad for my mom and i and i needed to support so i borrowed money to support because we had no money left |  :x:  | NA
+|  Charcoal  |  180  |  30/11/2025  | NA |  :x:  | 2
 
 
 <!-- This is the code without error detection
 | Food | 1,300ghc | 31/10/2024 |  :thumbsup: 
 | Electricity | 300ghc | 31/10/2024 |  :thumbsup: 
-| Football shoe | 550ghc | 16/10/2024 |  :thumbsup: 
+| Football | 550ghc | 16/10/2024 |  :thumbsup: 
 | Pocket money | 200ghc | 31/10/2024 |  :thumbsup: 
 | Food | 1,300ghc | 29/11/2024 |  :thumbsup: 
 | Electricity | 300ghc | 29/11/2024 |  :thumbsup: 
@@ -103,79 +109,85 @@
 | Food | 1,300ghc | 30/12/2024 |  :thumbsup: 
 | Electricity | 300ghc | 30/12/2024 |  :thumbsup: 
 | Pocket money | 200ghc | 30/12/2024 |  :thumbsup: 
-| Extra food | 250ghc | 30/12/2024 |  :thumbsup: 
-| Mummy's shoe | 160ghc | 30/12/2024 |  :thumbsup: 
+| Hygiene | 250ghc | 30/12/2024 |  :thumbsup: 
+| Gift | 160ghc | 30/12/2024 |  :thumbsup: 
 | Charcoal | 180ghc | 30/12/2024 |  :thumbsup: 
-| Pizza | 130ghc | 30/12/2024 |  :thumbsup: 
+| Gift | 130ghc | 30/12/2024 |  :thumbsup: 
 | Food | 1,300ghc | 30/01/2025 |  :thumbsup: 
-| Ankle Support | 300ghc |  |  :thumbsup: 
+| Medical | 300ghc |  |  :thumbsup: 
 | Starlink | 770ghc | 17/02/2025 |  :thumbsup: 
 | Food | 1,300ghc | 28/02/2025 |  :thumbsup: 
 | Electricity | 300ghc | 28/02/2025 |  :thumbsup: 
 | Pocket money | 200ghc | 28/02/2025 |  :thumbsup: 
-| Extra food | 150ghc | 28/02/2025 |  :thumbsup: 
-| Supplements | 215ghc | 17/02/2025 |  :thumbsup: 
-| Physio (6x) | 30ghc/ea | 17/02/2025 |  :thumbsup: 
+| Hygiene | 150ghc | 28/02/2025 |  :thumbsup: 
+| Medical | 215ghc | 17/02/2025 |  :thumbsup: 
+| Medical | 30ghc/ea | 17/02/2025 |  :thumbsup: 
 | Food | 1,300ghc | 31/03/2025 |  :thumbsup: 
 | Electricity | 300ghc | 31/03/2025 |  :thumbsup: 
-| Pocket Money | 200ghc | 31/03/2025 |  :thumbsup: 
-| Extra Food | 150ghc | 31/03/2025 |  :thumbsup: 
+| Pocket money | 200ghc | 31/03/2025 |  :thumbsup: 
+| Hygiene | 150ghc | 31/03/2025 |  :thumbsup: 
 | Starlink | 770ghc | 17/03/2025 |  :thumbsup: 
-| Fan | 300ghc | 17/03/2025 |  :thumbsup: 
-| X-ray | 100ghc | 31/03/2025 |  :thumbsup: 
-| A cast | 500ghc | 31/03/2025 |  :thumbsup: 
+| Electronics | 300ghc | 17/03/2025 |  :thumbsup: 
+| Medical | 100ghc | 31/03/2025 |  :thumbsup: 
+| Medical | 500ghc | 31/03/2025 |  :thumbsup: 
 | Food | 1,300ghc | 30/04/2025 |  :thumbsup: 
 | Electricity | 300ghc | 30/04/2025 |  :thumbsup: 
-| Extra food | 450ghc | 30/04/2025 |  :thumbsup: 
+| Hygiene | 450ghc | 30/04/2025 |  :thumbsup: 
 | Pocket money | 200ghc | 30/04/2025 |  :thumbsup: 
-| Starlink internet | 770ghc | 17/04/2025 |  :thumbsup: 
-| X-ray | 100ghc | 30/04/2025 |  :thumbsup: 
-| Slippers | 150ghc | 30/04/2025 |  :thumbsup: 
-| Cast | 500ghc | 30/05/2025 |  :thumbsup: 
+| Starlink | 770ghc | 17/04/2025 |  :thumbsup: 
+| Medical | 100ghc | 30/04/2025 |  :thumbsup: 
+| Personal | 150ghc | 30/04/2025 |  :thumbsup: 
+| Medical | 500ghc | 30/05/2025 |  :thumbsup: 
 | Food | 1,300ghc | 31/05/2025 |  :thumbsup: 
 | Electricity | 300ghc | 31/05/2025 |  :thumbsup: 
 | Pocket money | 200ghc | 31/05/2025 |  :thumbsup: 
-| Extra food | 450ghc | 31/05/2025 |  :thumbsup: 
+| Hygiene | 450ghc | 31/05/2025 |  :thumbsup: 
 | Starlink | 770ghc | 17/05/2025 |  :thumbsup: 
-| X-ray | 100ghc | 30/05/2025 |  :thumbsup: 
-| Passport | 1,900ghc | 06/06/2025 |  :thumbsup: 
+| Medical | 100ghc | 30/05/2025 |  :thumbsup: 
+| Legal | 1,900ghc | 06/06/2025 |  :thumbsup: 
 | Starlink | 770ghc | 17/06/2025 |  :thumbsup: 
-| sponge and towel | 130ghc |  |  :thumbsup: 
-| X-ray | 100ghc | 13/06/2025 |  :thumbsup: 
-| X-ray | 100ghc | 20/06/2025 |  :thumbsup: 
-| Mom's health | 300ghc | 25/06/2025 |  :thumbsup: 
+| Hygiene | 130ghc |  |  :thumbsup: 
+| Medical | 100ghc | 13/06/2025 |  :thumbsup: 
+| Medical | 100ghc | 20/06/2025 |  :thumbsup: 
+| Medical | 300ghc | 25/06/2025 |  :thumbsup: 
 | Food | 1,300ghc | 30/06/2025 |  :thumbsup: 
 | Electricity | 300ghc | 30/06/2025 |  :thumbsup: 
-| pocket money | 200ghc | 30/06/2025 |  :thumbsup: 
-| Extra Food | 450ghc | 30/06/2025 |  :thumbsup: 
-| Starlink due | 770ghc | 18/07/2025 |  :thumbsup: 
+| Pocket money | 200ghc | 30/06/2025 |  :thumbsup: 
+| Hygiene | 450ghc | 30/06/2025 |  :thumbsup: 
+| Starlink | 770ghc | 18/07/2025 |  :thumbsup: 
 | Food | 1,300ghc | 31/07/2025 |  :thumbsup: 
 | Electricity | 300ghc | 31/07/2025 |  :thumbsup: 
 | Pocket money | 200ghc | 31/07/2025 |  :thumbsup: 
-| Surgery Appointment | 800ghc | 25/07/2025 |  :thumbsup: 
-| Transportation to Kumasi | 200ghc | 25/07/2025 |  :thumbsup: 
-| Two bags of charcoal | 360ghc | 31/07/2025 |  :thumbsup: 
+| Medical | 800ghc | 25/07/2025 |  :thumbsup: 
+| Transportation | 200ghc | 25/07/2025 |  :thumbsup: 
+| Charcoal | 360ghc | 31/07/2025 |  :thumbsup: 
 | Transportation | 240ghc | ASAP |  :thumbsup: 
-| Affidavits | 140ghc | ASAP |  :thumbsup: 
-| Laptop Repair | 150ghc | 31/07/2025 |  :thumbsup: 
+| Legal | 140ghc | ASAP |  :thumbsup: 
+| Maintenance | 150ghc | 31/07/2025 |  :thumbsup: 
 | Food | 1,300ghc | 31/08/2025 |  :thumbsup: 
 | Electricity | 300ghc | 31/08/2025 |  :thumbsup: 
 | Pocket money | 200ghc | 31/08/2025 |  :thumbsup: 
 | Starlink | 770ghc | 18/08/2025 |  :thumbsup: 
-| Surgery | 6,000ghc | 09/08/2025 |  :thumbsup: 
+| Medical | 6,000ghc | 09/08/2025 |  :thumbsup: 
 | Transportation | 700ghc | 10/08/2025 |  :thumbsup: 
-| Slippers | 150ghc | 11/08/2025 |  :thumbsup: 
-| repaired my phone | 150ghc | 11/08/2025 |  :thumbsup: 
-| x-ray | 300ghc | 12/08/2025 |  :thumbsup: 
-| My uncle sent me money | 500ghc | 17/08/2025 |  :thumbsup: 
+| Personal | 150ghc | 11/08/2025 |  :thumbsup: 
+| Maintenance | 150ghc | 11/08/2025 |  :thumbsup: 
+| Medical | 300ghc | 12/08/2025 |  :thumbsup: 
+| Pocket money | 500ghc | 17/08/2025 |  :thumbsup: 
 | Food | 1,300ghc | 30/09/2025 |  :thumbsup: 
 | Electricity | 300ghc | 30/09/2025 |  :thumbsup: 
 | Pocket money | 200ghc | 30/09/2025 |  :thumbsup: 
 | Starlink | 770ghc | 30/09/2025 |  :thumbsup: 
-| Food | 1,300ghc | 31/10/2025 |  :x: 
-| Electricity | 300ghc | 31/10/2025 |  :x: 
-| Pocket money | 200ghc | 31/10/2025 |  :x: 
-| Starlink | 770ghc | 31/10/2025 |  :x: 
-| Two bags of charcoals | 360ghc | 31/10/2025 |  :x: 
+| Food | 1,300ghc | 31/10/2025 |  :thumbsup: 
+| Electricity | 300ghc | 31/10/2025 |  :thumbsup: 
+| Pocket money | 200ghc | 31/10/2025 |  :thumbsup: 
+| Starlink | 770ghc | 31/10/2025 |  :thumbsup: 
+| Food | 1,300ghc | 30/11/2025 |  :x: 
+| Electricity | 300ghc | 30/11/2025 |  :x: 
+| Pocket money | 200ghc | 30/11/2025 |  :x: 
+| Starlink | 770ghc | 30/11/2025 |  :x: 
+| Charcoal | 380ghc | 30/11/2025 |  :x: 
+| Gift | 400ghc | 30/11/2025 |  :x: 
+| Charcoal | 180 | 30/11/2025 |  :x: 
  
 -->

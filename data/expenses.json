@@ -629,5 +629,12 @@
         "date": "30/11/2025",
         "explanation":" My uncle's gonna gift me money to pay for my loan because last month things got bad for my mom and i and i needed to support so i borrowed money to support because we had no money left",
         "paid": false
+    },
+    {
+        "purpose": "Charcoal",
+        "amount": 180,
+        "date": "30/11/2025",
+        "quantity": 2,
+        "paid": false
     }
 ]

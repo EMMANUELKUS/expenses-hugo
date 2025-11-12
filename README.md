@@ -76,18 +76,18 @@ If you want to search for an "ERROR", you firstly go into the data file and save
      A                   B                     C                        D
 
 ```
-
-
+Initialy we were able to discover or detect bugs only in the final stage (D) but now we've added a schema which helps us to discover or detect bugs in an early stage (A).
 
 ## Things we talked about today you can add to your notes
 
 - description and markdownDescription :thumbsup:
-- regular expressions
-- Ctrl+Shift+O for navigating JSON data in vscode
-- anyOf
-- pattern
+- regular expressions :x:
+- Ctrl+Shift+O for navigating JSON data in vscode :thumbsup:
+- anyOf :thumbsup:
+- pattern :thumbsup:
 
 ## assignment
 
 - Add an optional property named quantity to the expense object schema
 - Commit and push the changes in the HUGO expense project with a meaningful commit message
+- Add error to the amount and the purpose in the temolate and also add quantity as a colon to the template.

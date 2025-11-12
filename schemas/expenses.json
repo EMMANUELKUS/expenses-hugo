@@ -36,7 +36,7 @@
             },
             "date": {
                 "type": "string",
-                "markdownDescription": "The _date_ when the payment is expected"
+                "markdownDescription": "The _date_ when the payment is expected. If missing, this means that there is no due date for the payment."
             },
             "explanation": {
                 "type": "string"
@@ -46,7 +46,7 @@
             },
             "quantity": {
                 "type": "integer",
-                "minimum": 4
+                "minimum": 1
             }
         },
         "required": [
