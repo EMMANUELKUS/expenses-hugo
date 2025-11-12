@@ -4,7 +4,7 @@
 
 | Purpose | Amount | Date | Explanation |Paid | 
 |---|---|---|---|---|
-{{ range .Site.Data.expenses }}| {{ if isset . "purpose" }} {{ .purpose }} {{ else }} MISSING {{ end }} | {{ if isset . "amount" }} {{ .amount }} {{ else }} MISSING {{ end }} | {{ if isset . "date" }} {{ .date }} {{ else }} MISSING {{ end }} | {{ .explanation }} | {{ if eq .paid true }} :thumbsup: {{ else if eq .paid false }} :x: {{ else }} ERROR {{ end }}
+{{ range .Site.Data.expenses }}| {{ if isset . "purpose" }} {{ .purpose }} {{ else }} {{ errorf "The purpose field is missing" }} {{ end }} | {{ if isset . "amount" }} {{ .amount }} {{ else }} {{ errorf "The amount field is missing" }} {{ end }} | {{ if isset . "date" }} {{ .date }} {{ else }} Unspecified {{ end }} | {{ default "NA" .explanation }} | {{ if eq .paid true }} :thumbsup: {{ else if eq .paid false }} :x: {{ else }} {{ errorf "The paid field is missing!" }} {{ end }} | {{ default "NA" .quantity }}
 {{ end }}
 
 <!-- This is the code without error detection
