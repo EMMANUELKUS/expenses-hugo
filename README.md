@@ -52,7 +52,6 @@ Templates always end with `.md`. After the templates is used to generate the art
 
 ## Bug Detection
 
-
 There are two types of bugs that can happen in an expense sheet:
 
 - [X] Bugs in the markdown (columns fused together, incorrect emoji codes, etc.)
@@ -60,9 +59,9 @@ There are two types of bugs that can happen in an expense sheet:
 
 After we introduced the idea of using a JSON file for the information, we now have 3 subtypes of the the information bugs:
 
-- [X] A bug in the JSON itself `A`
-- [X] A bug in the way we use JSON to describe an expense `D`
-- [ ] A bug in information (i.e. error), for example wrong date, amount, or paid status
+- [X] A bug in the JSON itself `A` caught by vs code
+- [X] A bug in the way we use JSON to describe an expense `A` caught using the schema
+- [ ] A bug in information itself, for example wrong date, amount, or paid status
 
 ### Detecting content bugs
 
