@@ -25,10 +25,6 @@
             "amount": {  
                 "anyOf": [    
                     { 
-                        "type": "string",
-                        "pattern": "ghc$|ghc/ea$"
-                    },
-                    { 
                         "type": "number"
                     }  
                 ],
