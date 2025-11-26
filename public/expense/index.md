@@ -1,98 +1,18 @@
+## Upcoming Expense
 
-## Upcoming Expenses
+|Purpose | Amount | Date | Explanation |
+|--------|--------|------|-------------|
+| Food | 1300 |30/11/2025 | Every month we stock the house with food, we get bags of cassava, plantain, rice and yam and some other things needed to make food so we that we don't run out of food until the month ends |
+| Electricity | 300 |30/11/2025 | Every month my uncle helps us to pay for our electricity so that i and my mom can have light always |
+| Pocket money | 200 |30/11/2025 | My uncle gives me money to keep in my pocket so that whenever i need something i can buy |
+| Starlink | 770 |30/11/2025 | Every month my uncle pays my starlink due so that i can recharge my starlink and have class with him all the time and also i can communicate with him whenever needed |
+| Charcoal | 360 |30/11/2025 | It's my mom's responsibility to pay for charcoal whenever we need some but last month was a lot of challenges, my brother got sick and my mom paid for all the bills and also some difficulties regarding our electricity so she couldn't pay for charcoal |
+| Gift | 400 |30/11/2025 |  My uncle's gonna gift me money to pay for my loan because last month things got bad for my mom and i and i needed to support so i borrowed money to support because we had no money left |
 
-- 1300 
-- 300 
-- 550 
-- 200 
-- 1300 
-- 300 
-- 200 
-- 180 
-- 1300 
-- 300 
-- 200 
-- 250 
-- 160 
-- 180 
-- 130 
-- 1300 
-- 300 
-- 770 
-- 1300 
-- 300 
-- 200 
-- 150 
-- 215 
-- 30 
-- 1300 
-- 300 
-- 200 
-- 150 
-- 770 
-- 300 
-- 100 
-- 500 
-- 1300 
-- 300 
-- 450 
-- 200 
-- 770 
-- 100 
-- 150 
-- 500 
-- 1300 
-- 300 
-- 200 
-- 450 
-- 770 
-- 100 
-- 1900 
-- 770 
-- 130 
-- 100 
-- 100 
-- 300 
-- 1300 
-- 300 
-- 200 
-- 450 
-- 770 
-- 1300 
-- 300 
-- 200 
-- 800 
-- 200 
-- 360 
-- 240 
-- 140 
-- 150 
-- 1300 
-- 300 
-- 200 
-- 770 
-- 6000 
-- 700 
-- 150 
-- 150 
-- 300 
-- 500 
-- 1300 
-- 300 
-- 200 
-- 770 
-- 1300 
-- 300 
-- 200 
-- 770 
-- 1300  false 
-- 300  false 
-- 200  false 
-- 770  false 
-- 380  false 
-- 400  false 
-- 180  false 
 
+### Amount due
+
+<!-- we are adding 1300 to the variable, the variable now is 1300 --><!-- we are adding 300 to the variable, the variable now is 1600 --><!-- we are adding 200 to the variable, the variable now is 1800 --><!-- we are adding 770 to the variable, the variable now is 2570 --><!-- we are adding 360 to the variable, the variable now is 2930 --><!-- we are adding 400 to the variable, the variable now is 3330 -->Total amount spent: 3330 GHC
 
 ## All Expenses
 
@@ -182,10 +102,11 @@
 |  Electricity  |  300  |  31/10/2025  | My uncle help me and my mom to pay our light bills every month |  :thumbsup:  | NA
 |  Pocket money  |  200  |  31/10/2025  | My uncle gives me money to save in my pocket so that i can buy things i need |  :thumbsup:  | NA
 |  Starlink  |  770  |  31/10/2025  | My uncle pays my starlink monthly due for me so that i can always have a better internet connection for class or a good communication |  :thumbsup:  | NA
+|  Medical  |  100  |  24/11/2025  | Uncle helped to go to the hospitalto have an x-ray to see how my feet is improving |  :thumbsup:  | NA
+|  Electronics  |  70  |  24/11/2025  | I moved to a new office and i was struggling with electricity connection so my uncle helped me buy a new extension board so that i can connect easily from my room |  :thumbsup:  | NA
 |  Food  |  1300  |  30/11/2025  | Every month we stock the house with food, we get bags of cassava, plantain, rice and yam and some other things needed to make food so we that we don't run out of food until the month ends |  :x:  | NA
 |  Electricity  |  300  |  30/11/2025  | Every month my uncle helps us to pay for our electricity so that i and my mom can have light always |  :x:  | NA
 |  Pocket money  |  200  |  30/11/2025  | My uncle gives me money to keep in my pocket so that whenever i need something i can buy |  :x:  | NA
 |  Starlink  |  770  |  30/11/2025  | Every month my uncle pays my starlink due so that i can recharge my starlink and have class with him all the time and also i can communicate with him whenever needed |  :x:  | NA
-|  Charcoal  |  380  |  30/11/2025  | It's my mom's responsibility to pay for charcoal whenever we need some but last month was a lot of challenges, my brother got sick and my mom paid for all the bills and also some difficulties regarding our electricity so she couldn't pay for charcoal |  :x:  | NA
+|  Charcoal  |  360  |  30/11/2025  | It's my mom's responsibility to pay for charcoal whenever we need some but last month was a lot of challenges, my brother got sick and my mom paid for all the bills and also some difficulties regarding our electricity so she couldn't pay for charcoal |  :x:  | 2
 |  Gift  |  400  |  30/11/2025  |  My uncle's gonna gift me money to pay for my loan because last month things got bad for my mom and i and i needed to support so i borrowed money to support because we had no money left |  :x:  | NA
-|  Charcoal  |  180  |  30/11/2025  | NA |  :x:  | 2

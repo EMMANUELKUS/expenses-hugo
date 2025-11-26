@@ -1,8 +1,13 @@
+## Upcoming Expense
 
-## Upcoming Expenses
+|Purpose | Amount | Date | Explanation |
+|--------|--------|------|-------------|
+{{ range .Site.Data.expenses }}{{if eq .paid false }}| {{ .purpose }} | {{ .amount }} |{{ .date }} | {{ .explanation }} |
+{{ end }}{{ end }}
 
-{{ range .Site.Data.expenses }}- {{ .amount }} {{ if eq .paid false }} false {{ end }}
-{{ end }}
+### Amount due
+
+{{ $totalSpent := 0 }}{{ range .Site.Data.expenses}}{{ if eq .paid false }}{{ $totalSpent = add $totalSpent .amount }}<!-- we are adding {{.amount}} to the variable, the variable now is {{ $totalSpent }} -->{{ end }}{{ end }}Total amount spent: {{ $totalSpent }} GHC
 
 ## All Expenses
 
