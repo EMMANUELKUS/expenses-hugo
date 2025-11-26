@@ -1,9 +1,5 @@
 ## Upcoming Expense
 
-### Amount Due
-
-Total amount spent: 3330 GHC
-
 ### Details 
 
 |Purpose | Amount | Date | Explanation |
@@ -15,6 +11,23 @@ Total amount spent: 3330 GHC
 | Charcoal | 360 |30/11/2025 | It's my mom's responsibility to pay for charcoal whenever we need some but last month was a lot of challenges, my brother got sick and my mom paid for all the bills and also some difficulties regarding our electricity so she couldn't pay for charcoal |
 | Gift | 400 |30/11/2025 |  My uncle's gonna gift me money to pay for my loan because last month things got bad for my mom and i and i needed to support so i borrowed money to support because we had no money left |
 
+
+### Amount due
+
+ 1300
+
+ 300
+
+ 200
+
+ 770
+
+ 360
+
+ 400
+
+
+Total amount spent: 0 GHC
 
 ## All Expenses
 
