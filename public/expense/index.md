@@ -1,5 +1,11 @@
 ## Upcoming Expense
 
+### Amount Due
+
+Total amount spent: 3330 GHC
+
+### Details 
+
 |Purpose | Amount | Date | Explanation |
 |--------|--------|------|-------------|
 | Food | 1300 |30/11/2025 | Every month we stock the house with food, we get bags of cassava, plantain, rice and yam and some other things needed to make food so we that we don't run out of food until the month ends |
@@ -9,10 +15,6 @@
 | Charcoal | 360 |30/11/2025 | It's my mom's responsibility to pay for charcoal whenever we need some but last month was a lot of challenges, my brother got sick and my mom paid for all the bills and also some difficulties regarding our electricity so she couldn't pay for charcoal |
 | Gift | 400 |30/11/2025 |  My uncle's gonna gift me money to pay for my loan because last month things got bad for my mom and i and i needed to support so i borrowed money to support because we had no money left |
 
-
-### Amount due
-
-<!-- we are adding 1300 to the variable, the variable now is 1300 --><!-- we are adding 300 to the variable, the variable now is 1600 --><!-- we are adding 200 to the variable, the variable now is 1800 --><!-- we are adding 770 to the variable, the variable now is 2570 --><!-- we are adding 360 to the variable, the variable now is 2930 --><!-- we are adding 400 to the variable, the variable now is 3330 -->Total amount spent: 3330 GHC
 
 ## All Expenses
 
