@@ -7,7 +7,7 @@
 
 ### Amount due
 
-{{ $totalSpent := 0 }}{{ range .Site.Data.expenses}}{{ if eq .paid false }}{{ $totalSpent = add $totalSpent .amount }}<!-- we are adding {{.amount}} to the variable, the variable now is {{ $totalSpent }} -->{{ end }}{{ end }}Total amount spent: {{ $totalSpent }} GHC
+{{ $totalSpent := 0 }}{{ range .Site.Data.expenses}}{{ if eq .paid false }}{{ $totalSpent = add $totalSpent .amount }}{{ end }}{{ end }}Total amount spent: {{ $totalSpent }} GHC
 
 ## All Expenses
 
