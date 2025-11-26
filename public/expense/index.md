@@ -4,7 +4,6 @@
 
 |Purpose | Amount | Date | Explanation |
 |--------|--------|------|-------------|
-
 |Food|130030/11/2025|Every month we stock the house with food, we get bags of cassava, plantain, rice and yam and some other things needed to make food so we that we don't run out of food until the month ends|
 |Electricity|30030/11/2025|Every month my uncle helps us to pay for our electricity so that i and my mom can have light always|
 |Pocket money|20030/11/2025|My uncle gives me money to keep in my pocket so that whenever i need something i can buy|

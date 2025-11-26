@@ -4,13 +4,8 @@
 
 |Purpose | Amount | Date | Explanation |
 |--------|--------|------|-------------|
-{{ $totalSpent := 0 }}
-{{ range .Site.Data.expenses }}{{if eq .paid false }}|{{ .purpose }}|{{ .amount }}{{ .date }}|{{ .explanation }}|{{ $totalSpent = add $totalSpent .amount }}
+{{ $totalSpent := 0 }}{{ range .Site.Data.expenses }}{{if eq .paid false }}|{{ .purpose }}|{{ .amount }}{{ .date }}|{{ .explanation }}|{{ $totalSpent = add $totalSpent .amount }}
 {{ end }}{{ end }}
-Total amount spent: {{ $totalSpent }} GHC
-
-### Amount due
-{{ $totalSpent := 0 }}{{ range .Site.Data.expenses }}{{ if eq .paid false }}{{ $totalSpent = add $totalSpent .amount }}{{ end }}{{ end }}
 Total amount spent: {{ $totalSpent }} GHC
 
 ## All Expenses
