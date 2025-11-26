@@ -5,29 +5,22 @@
 |Purpose | Amount | Date | Explanation |
 |--------|--------|------|-------------|
 | Food | 1300 |30/11/2025 | Every month we stock the house with food, we get bags of cassava, plantain, rice and yam and some other things needed to make food so we that we don't run out of food until the month ends |
+Total amount spent: 0 GHC
 | Electricity | 300 |30/11/2025 | Every month my uncle helps us to pay for our electricity so that i and my mom can have light always |
+Total amount spent: 0 GHC
 | Pocket money | 200 |30/11/2025 | My uncle gives me money to keep in my pocket so that whenever i need something i can buy |
+Total amount spent: 0 GHC
 | Starlink | 770 |30/11/2025 | Every month my uncle pays my starlink due so that i can recharge my starlink and have class with him all the time and also i can communicate with him whenever needed |
+Total amount spent: 0 GHC
 | Charcoal | 360 |30/11/2025 | It's my mom's responsibility to pay for charcoal whenever we need some but last month was a lot of challenges, my brother got sick and my mom paid for all the bills and also some difficulties regarding our electricity so she couldn't pay for charcoal |
+Total amount spent: 0 GHC
 | Gift | 400 |30/11/2025 |  My uncle's gonna gift me money to pay for my loan because last month things got bad for my mom and i and i needed to support so i borrowed money to support because we had no money left |
+Total amount spent: 0 GHC
 
 
 ### Amount due
 
- 1300
-
- 300
-
- 200
-
- 770
-
- 360
-
- 400
-
-
-Total amount spent: 0 GHC
+Total amount spent: 3330 GHC
 
 ## All Expenses
 
