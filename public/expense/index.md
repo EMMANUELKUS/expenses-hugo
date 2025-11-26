@@ -12,7 +12,7 @@
 
 ### Amount due
 
-<!-- we are adding 1300 to the variable, the variable now is 1300 --><!-- we are adding 300 to the variable, the variable now is 1600 --><!-- we are adding 200 to the variable, the variable now is 1800 --><!-- we are adding 770 to the variable, the variable now is 2570 --><!-- we are adding 360 to the variable, the variable now is 2930 --><!-- we are adding 400 to the variable, the variable now is 3330 -->Total amount spent: 3330 GHC
+Total amount spent: 3330 GHC
 
 ## All Expenses
 
