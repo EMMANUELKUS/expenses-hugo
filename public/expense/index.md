@@ -1,7 +1,10 @@
 ## Upcoming Expense
 
+### Details 
+
 |Purpose | Amount | Date | Explanation |
 |--------|--------|------|-------------|
+|Medical|100|28/11/2025|My uncle sent me money for my x-ray but the usual hospital's machine spoiled and now i need to go to a private hospital and the amount turns to be double|
 |Food|1300|30/11/2025|Every month we stock the house with food, we get bags of cassava, plantain, rice and yam and some other things needed to make food so we that we don't run out of food until the month ends|
 |Electricity|300|30/11/2025|Every month my uncle helps us to pay for our electricity so that i and my mom can have light always|
 |Pocket money|200|30/11/2025|My uncle gives me money to keep in my pocket so that whenever i need something i can buy|
@@ -9,7 +12,10 @@
 |Charcoal|360|30/11/2025|It's my mom's responsibility to pay for charcoal whenever we need some but last month was a lot of challenges, my brother got sick and my mom paid for all the bills and also some difficulties regarding our electricity so she couldn't pay for charcoal|
 |Gift|400|30/11/2025| My uncle's gonna gift me money to pay for my loan because last month things got bad for my mom and i and i needed to support so i borrowed money to support because we had no money left|
 
-Total amount spent : 3330 GHC
+
+### Summary
+
+Total unpaid: 3430ghc
 
 ## All Expenses
 
@@ -101,6 +107,7 @@ Total amount spent : 3330 GHC
 |  Starlink  |  770  |  31/10/2025  | My uncle pays my starlink monthly due for me so that i can always have a better internet connection for class or a good communication |  :thumbsup:  | NA
 |  Medical  |  100  |  24/11/2025  | Uncle helped to go to the hospitalto have an x-ray to see how my feet is improving |  :thumbsup:  | NA
 |  Electronics  |  70  |  24/11/2025  | I moved to a new office and i was struggling with electricity connection so my uncle helped me buy a new extension board so that i can connect easily from my room |  :thumbsup:  | NA
+|  Medical  |  100  |  28/11/2025  | My uncle sent me money for my x-ray but the usual hospital's machine spoiled and now i need to go to a private hospital and the amount turns to be double |  :x:  | NA
 |  Food  |  1300  |  30/11/2025  | Every month we stock the house with food, we get bags of cassava, plantain, rice and yam and some other things needed to make food so we that we don't run out of food until the month ends |  :x:  | NA
 |  Electricity  |  300  |  30/11/2025  | Every month my uncle helps us to pay for our electricity so that i and my mom can have light always |  :x:  | NA
 |  Pocket money  |  200  |  30/11/2025  | My uncle gives me money to keep in my pocket so that whenever i need something i can buy |  :x:  | NA

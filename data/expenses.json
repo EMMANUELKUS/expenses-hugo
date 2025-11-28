@@ -603,6 +603,13 @@
         "paid": true
     },
     {
+        "purpose": "Medical",
+        "amount" : 100,
+        "date": "28/11/2025",
+        "explanation": "My uncle sent me money for my x-ray but the usual hospital's machine spoiled and now i need to go to a private hospital and the amount turns to be double",
+        "paid": false
+    },
+    {
         "purpose": "Food",
         "amount": 1300,
         "date": "30/11/2025",
@@ -644,5 +651,5 @@
         "date": "30/11/2025",
         "explanation":" My uncle's gonna gift me money to pay for my loan because last month things got bad for my mom and i and i needed to support so i borrowed money to support because we had no money left",
         "paid": false
-        }
+    }
 ]
