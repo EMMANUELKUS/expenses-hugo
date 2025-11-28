@@ -1,12 +1,17 @@
 ## Upcoming Expense
 
+{{ add $variable (mul quantity amount) }}
+
 ### Details 
 
 |Purpose | Amount | Date | Explanation |
 |--------|--------|------|-------------|
-{{ $totalSpent := 0 }}{{ range .Site.Data.expenses }}{{if eq .paid false }}|{{ .purpose }}|{{ .amount }}|{{ .date }}|{{ .explanation }}|{{ $totalSpent = add $totalSpent .amount }}
+{{ $total := 0 }}{{ range .Site.Data.expenses }}{{if eq .paid false }}|{{ .purpose }}|{{ .amount }}|{{ .date }}|{{ .explanation }}|{{ $total = add $total .amount }}
 {{ end }}{{ end }}
-Total amount spent: {{ $totalSpent }} GHC
+
+### Summary
+
+Total unpaid: {{ $total }}ghc
 
 ## All Expenses
 

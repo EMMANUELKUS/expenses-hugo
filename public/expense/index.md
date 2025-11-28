@@ -1,5 +1,7 @@
 ## Upcoming Expense
 
+300
+
 ### Details 
 
 |Purpose | Amount | Date | Explanation |
@@ -10,9 +12,11 @@
 |Starlink|770|30/11/2025|Every month my uncle pays my starlink due so that i can recharge my starlink and have class with him all the time and also i can communicate with him whenever needed|
 |Charcoal|360|30/11/2025|It's my mom's responsibility to pay for charcoal whenever we need some but last month was a lot of challenges, my brother got sick and my mom paid for all the bills and also some difficulties regarding our electricity so she couldn't pay for charcoal|
 |Gift|400|30/11/2025| My uncle's gonna gift me money to pay for my loan because last month things got bad for my mom and i and i needed to support so i borrowed money to support because we had no money left|
-|Legal|1200|30/11/2025|just added to make an example|
 
-Total amount spent: 4530 GHC
+
+### Summary
+
+Total unpaid: 3330ghc
 
 ## All Expenses
 
@@ -110,4 +114,3 @@ Total amount spent: 4530 GHC
 |  Starlink  |  770  |  30/11/2025  | Every month my uncle pays my starlink due so that i can recharge my starlink and have class with him all the time and also i can communicate with him whenever needed |  :x:  | NA
 |  Charcoal  |  360  |  30/11/2025  | It's my mom's responsibility to pay for charcoal whenever we need some but last month was a lot of challenges, my brother got sick and my mom paid for all the bills and also some difficulties regarding our electricity so she couldn't pay for charcoal |  :x:  | 2
 |  Gift  |  400  |  30/11/2025  |  My uncle's gonna gift me money to pay for my loan because last month things got bad for my mom and i and i needed to support so i borrowed money to support because we had no money left |  :x:  | NA
-|  Legal  |  1200  |  30/11/2025  | just added to make an example |  :x:  | NA
