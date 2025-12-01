@@ -607,39 +607,39 @@
         "amount" : 100,
         "date": "28/11/2025",
         "explanation": "My uncle sent me money for my x-ray but the usual hospital's machine spoiled and now i need to go to a private hospital and the amount turns to be double",
-        "paid": false
+        "paid": true
     },
     {
         "purpose": "Food",
         "amount": 1300,
         "date": "30/11/2025",
         "explanation": "Every month we stock the house with food, we get bags of cassava, plantain, rice and yam and some other things needed to make food so we that we don't run out of food until the month ends",
-        "paid": false
+        "paid": true
     },
     {
         "purpose": "Electricity",
         "amount": 300,
         "date": "30/11/2025",
         "explanation": "Every month my uncle helps us to pay for our electricity so that i and my mom can have light always",
-        "paid": false
+        "paid": true
     },
     {
         "purpose": "Pocket money",
         "amount": 200,
         "date": "30/11/2025",
         "explanation": "My uncle gives me money to keep in my pocket so that whenever i need something i can buy",
-        "paid": false
+        "paid": true
     },
     {
         "purpose": "Starlink",
         "amount": 770,
         "date": "30/11/2025",
         "explanation": "Every month my uncle pays my starlink due so that i can recharge my starlink and have class with him all the time and also i can communicate with him whenever needed",
-        "paid": false
+        "paid": true
     },
     {
         "purpose" :"Charcoal",
-        "amount": 360,
+        "amount": 180,
         "date": "30/11/2025",
         "quantity": 2,
         "explanation": "It's my mom's responsibility to pay for charcoal whenever we need some but last month was a lot of challenges, my brother got sick and my mom paid for all the bills and also some difficulties regarding our electricity so she couldn't pay for charcoal",
