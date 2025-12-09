@@ -4,84 +4,96 @@
         "amount": 1300,
         "date": "31/10/2024",
         "explanation": "Stocking the house with food so that we don't lack food or short food before the end of the month",
-        "paid": true
+        "paid": true,
+        "pal": "Uncle"
     },
     {
         "purpose": "Electricity",
         "amount": 300,
         "date": "31/10/2024",
         "explanation": "Buying as much electricity so that we always have light until the end of the month",
-        "paid": true
+        "paid": true,
+        "pal": "Uncle"
     },
     {
         "purpose": "Football",
         "amount": 550,
         "date": "16/10/2024",
         "explanation": "I need a football shoe to play football,18th of this month I am traveling to Accra for a trials",
-        "paid": true
+        "paid": true,
+        "pal": "Uncle"
     },
     {
         "purpose": "Pocket money",
         "amount": 200,
         "date": "31/10/2024",
         "explanation": "Pocket money, the money I keep in my pocket so that when I need something i can buy",
-        "paid": true
+        "paid": true,
+        "pal": "Uncle"
     },
     {
         "purpose": "Food",
         "amount": 1300,
         "date": "29/11/2024",
         "explanation": "My uncle helping my mom and I to stock the house with food",
-        "paid": true
+        "paid": true,
+        "pal": "Uncle"
     },
     {
         "purpose": "Electricity",
         "amount": 300,
         "date": "29/11/2024",
         "explanation": "My uncle helping us buy enough electricity so that we don't run out of light",
-        "paid": true
+        "paid": true,
+        "pal": "Uncle"
     },
     {
         "purpose": "Pocket money",
         "amount": 200,
         "date": "29/11/2024",
         "explanation": "My uncle gives me pocket money that helps me to buy something when I need it",
-        "paid": true
+        "paid": true,
+        "pal": "Uncle"
     },
     {
         "purpose": "Charcoal",
         "amount": 180,
         "date": "29/11/2024",
         "explanation": "My uncle to help me buy bags of charcoal so that i can always get fire to cook",
-        "paid": true
+        "paid": true,
+        "pal": "Uncle"
     },
     {
         "purpose": "Food",
         "amount": 1300,
         "date": "30/12/2024",
         "explanation": "My uncle helping me to buy food to stock the house",
-        "paid": true
+        "paid": true,
+        "pal": "Uncle"
     },
     {
         "purpose": "Electricity",
         "amount": 300,
         "date": "30/12/2024",
         "explanation": "My uncle to help me buy much electricity to have light until the end of the month",
-        "paid": true
+        "paid": true,
+        "pal": "Uncle"
     },
     {
         "purpose": "Pocket money",
         "amount": 200,
         "date": "30/12/2024",
         "explanation": "My uncle gives me money to keep in my pocket,whenever i need something then i can buy",
-        "paid": true
+        "paid": true,
+        "pal": "Uncle"
     },
     {
         "purpose": "Hygiene",
         "amount": 250,
         "date": "30/12/2024",
         "explanation": "My uncle to help me get one full chicken to have much protein",
-        "paid": true
+        "paid": true,
+        "pal": "Uncle"
     },
     {
         "purpose": "Gift",
@@ -651,5 +663,37 @@
         "date": "30/11/2025",
         "explanation":" My uncle's gonna gift me money to pay for my loan because last month things got bad for my mom and i and i needed to support so i borrowed money to support because we had no money left",
         "paid": false
+    },
+    {
+        "purpose": "Food",
+        "amount": 1300,
+        "date": "31/12/2025",
+        "explanation": "Stocking the house with much food so that we don't run out of food before the end of the month",
+        "paid": false,
+        "pal": "Uncle"
+    },
+    {
+        "purpose": "Electricity",
+        "amount": 1300,
+        "date": "31/12/2025",
+        "explanation": "Enough electricity in the month so that uncle can always teach me and so that i can also communicate with my uncle all the time",
+        "paid": false,
+        "pal": "Uncle"
+    },
+    {
+        "purpose": "Pocket money",
+        "amount": 200,
+        "date": "31/12/2025",
+        "explanation": "My uncle giving  e pocket money so that i can buy anything when needed",
+        "paid": false,
+        "pal": "Uncle"
+    },
+    {
+        "purpose": "Starlink",
+        "amount": 770,
+        "date": "31/12/2025",
+        "explanation": "My uncle recharges the starlink for me so that i can always have a better internet connection",
+        "paid": false,
+        "pal": "Uncle"
     }
 ]
