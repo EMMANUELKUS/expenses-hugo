@@ -4,7 +4,8 @@
         "amount": 1300,
         "date": "31/10/2024",
         "explanation": "Stocking the house with food so that we don't lack food or short food before the end of the month",
-        "paid": true
+        "paid": true,
+        "pal": "Umcle"
     },
     {
         "purpose": "Electricity",
@@ -643,13 +644,47 @@
         "date": "30/11/2025",
         "quantity": 2,
         "explanation": "It's my mom's responsibility to pay for charcoal whenever we need some but last month was a lot of challenges, my brother got sick and my mom paid for all the bills and also some difficulties regarding our electricity so she couldn't pay for charcoal",
-        "paid": false
+        "paid": false,
+        "pal": "uncle"
     },
     {
         "purpose": "Gift",
         "amount": 400,
         "date": "30/11/2025",
-        "explanation":" My uncle's gonna gift me money to pay for my loan because last month things got bad for my mom and i and i needed to support so i borrowed money to support because we had no money left",
-        "paid": false
+        "explanation":"My uncle's gonna gift me money to pay for my loan because last month things got bad for my mom and i and i needed to support so i borrowed money to support because we had no money left",
+        "paid": false,
+        "pal": "uncle"
+    },
+    {
+        "purpose": "Food",
+        "amount": 1300,
+        "date": "31/12/2025",
+        "explanation": "Stocking the house with much food so that we don't run out of food before the end of the month",
+        "paid": false,
+        "pal": "uncle"
+    },
+    {
+        "purpose": "Electricity",
+        "amount": 1300,
+        "date": "31/12/2025",
+        "explanation": "Enough electricity in the month so that uncle can always teach me and so that i can also communicate with my uncle all the time",
+        "paid": false,
+        "pal": "uncle"
+    },
+    {
+        "purpose": "Pocket money",
+        "amount": 200,
+        "date": "31/12/2025",
+        "explanation": "My uncle giving  e pocket money so that i can buy anything when needed",
+        "paid": false,
+        "pal": "uncle"
+    },
+    {
+        "purpose": "Starlink",
+        "amount": 770,
+        "date": "31/12/2025",
+        "explanation": "My uncle recharges the starlink for me so that i can always have a better internet connection",
+        "paid": false,
+        "pal": "uncle"
     }
 ]
