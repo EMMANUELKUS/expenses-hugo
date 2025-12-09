@@ -43,7 +43,9 @@
             "quantity": {
                 "type": "integer",
                 "minimum": 1
-            }
+            },
+            "pal": {
+                "type": "Uncle"
         },
         "required": [
             "purpose",
@@ -52,4 +54,5 @@
         ],
         "additionalProperties": false
     }  
+}
 }
