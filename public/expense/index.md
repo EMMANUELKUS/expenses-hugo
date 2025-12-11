@@ -3,19 +3,18 @@
 ### Details 
 
 
-|Purpose | Amount | Quantity |Date | Explanation | Pals |
+|Purpose | Amount | Quantity |Date | Explanation | Pal |
 |--------|--------|----------|-----|-------------|------
 |Charcoal|180|2|30/11/2025|It's my mom's responsibility to pay for charcoal whenever we need some but last month was a lot of challenges, my brother got sick and my mom paid for all the bills and also some difficulties regarding our electricity so she couldn't pay for charcoal|uncle
 |Gift|400|NA|30/11/2025|My uncle's gonna gift me money to pay for my loan because last month things got bad for my mom and i and i needed to support so i borrowed money to support because we had no money left|uncle
 |Food|1300|NA|31/12/2025|Stocking the house with much food so that we don't run out of food before the end of the month|uncle
 |Electricity|1300|NA|31/12/2025|Enough electricity in the month so that uncle can always teach me and so that i can also communicate with my uncle all the time|uncle
 |Pocket money|200|NA|31/12/2025|My uncle giving  e pocket money so that i can buy anything when needed|uncle
-|Starlink|770|NA|31/12/2025|My uncle recharges the starlink for me so that i can always have a better internet connection|uncle
 
 
 ### Summary
 
-total unpaid : 4330ghc
+total unpaid : 3560ghc
 
 ## All Expenses
 
@@ -117,4 +116,4 @@ total unpaid : 4330ghc
 |  Food  |  1300  |  31/12/2025  | Stocking the house with much food so that we don't run out of food before the end of the month |  :x: 
 |  Electricity  |  1300  |  31/12/2025  | Enough electricity in the month so that uncle can always teach me and so that i can also communicate with my uncle all the time |  :x: 
 |  Pocket money  |  200  |  31/12/2025  | My uncle giving  e pocket money so that i can buy anything when needed |  :x: 
-|  Starlink  |  770  |  31/12/2025  | My uncle recharges the starlink for me so that i can always have a better internet connection |  :x: 
+|  Starlink  |  770  |  31/12/2025  | My uncle recharges the starlink for me so that i can always have a better internet connection |  :thumbsup: 

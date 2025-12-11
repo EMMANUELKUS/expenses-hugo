@@ -1,10 +1,12 @@
 {
     "json.schemas": [
+
         {
             "fileMatch": [
-                "/data/expenses.json"
+                "/home/emmanuel/repos/my-payments-sheet/data/expenses.json"
             ],
             "url": "./schemas/expenses.json"
         }
-    ]
+    ],
+    "json.schemaDownload.enable": true
 }

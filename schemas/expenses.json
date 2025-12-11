@@ -50,8 +50,7 @@
         "required": [
             "purpose",
             "amount",
-            "paid",
-            "pal"
+            "paid"
         ],
         "additionalProperties": false
     }

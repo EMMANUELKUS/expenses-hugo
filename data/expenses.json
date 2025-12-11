@@ -5,7 +5,7 @@
         "date": "31/10/2024",
         "explanation": "Stocking the house with food so that we don't lack food or short food before the end of the month",
         "paid": true,
-        "pal": "Umcle"
+        "sponsor": "uncle"
     },
     {
         "purpose": "Electricity",
@@ -684,7 +684,7 @@
         "amount": 770,
         "date": "31/12/2025",
         "explanation": "My uncle recharges the starlink for me so that i can always have a better internet connection",
-        "paid": false,
+        "paid": true,
         "pal": "uncle"
     }
 ]
