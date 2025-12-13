@@ -45,7 +45,7 @@
                 "minimum": 1
             },
             "pal": {
-                "type": "string"
+                "type":"string"
         },
         "required": [
             "purpose",
