@@ -4,8 +4,7 @@
         "amount": 1300,
         "date": "31/10/2024",
         "explanation": "Stocking the house with food so that we don't lack food or short food before the end of the month",
-        "paid": true,
-        "pal": "Uncle"
+        "paid": true
     },
     {
         "purpose": "Electricity",
