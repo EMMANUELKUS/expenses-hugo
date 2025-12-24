@@ -1,1 +1,0 @@
-grep -E 'ERROR|MISSING' ./public/*/*

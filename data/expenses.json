@@ -683,7 +683,7 @@
         "amount": 770,
         "date": "31/12/2025",
         "explanation": "My uncle recharges the starlink for me so that i can always have a better internet connection",
-        "paid": true,
+        "paid": false,
         "pal": "Uncle"
     }
 ]
