@@ -45,14 +45,18 @@
                 "minimum": 1
             },
             "pal": {
-                "type":"string"
+                "type":"string",
+                "enum": [
+                    "Uncle"
+                ],
+                "markdownDescription": "The person who decides to help me afford my expenses."
             }
         },
         "required": [
             "purpose",
             "amount",
             "paid"
-    ],
-    "additionalProperties": false
+        ],
+        "additionalProperties": false
     }
 }

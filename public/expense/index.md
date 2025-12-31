@@ -19,7 +19,7 @@ total unpaid : 4330ghc
 
 ## All Expenses
 
-| Purpose | Amount | Date |Explanation | Paid | quantity | Pal |
+| Purpose | Amount | Date |Explanation | Paid | Quantity | Pal |
 |---------|--------|------|------------|------|----------|-----|
 |  Food  |  1300  |  31/10/2024  | Stocking the house with food so that we don't lack food or short food before the end of the month |  :thumbsup: 
 |  Electricity  |  300  |  31/10/2024  | Buying as much electricity so that we always have light until the end of the month |  :thumbsup: 

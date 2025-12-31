@@ -14,7 +14,7 @@ total unpaid : {{ $total }}ghc
 
 ## All Expenses
 
-| Purpose | Amount | Date |Explanation | Paid | quantity | Pal |
+| Purpose | Amount | Date |Explanation | Paid | Quantity | Pal |
 |---------|--------|------|------------|------|----------|-----|
 {{ range .Site.Data.expenses }}| {{ if isset . "purpose" }} {{ .purpose }} {{ else }} {{ errorf "The purpose field is missing, which is required" }} {{ end }} | {{ if isset . "amount" }} {{ .amount }} {{ else }} {{ errorf "The amount field is missing, which is required" }} {{ end }} | {{ if isset . "date" }} {{ .date }} {{ else }} Unspecified {{ end }} | {{ default "NA" .explanation }} | {{ if eq .paid true }} :thumbsup: {{ else if eq .paid false }} :x: {{ else }} {{ errorf "The paid boolean field is neither true nor false! please ensure to use a boolean value." }} | {{ default "NA" .quantity }} | {{ default "None" .pal }}
 {{ end }}
