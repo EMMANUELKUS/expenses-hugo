@@ -5,9 +5,9 @@
 
 |Purpose | Amount | Quantity |Date | Explanation | Pal |
 |--------|--------|----------|-----|-------------|------
-|Charcoal|180|2|30/11/2025|It's my mom's responsibility to pay for charcoal whenever we need some but last month was a lot of challenges, my brother got sick and my mom paid for all the bills and also some difficulties regarding our electricity so she couldn't pay for charcoal|Uncle
-|Gift|400|NA|30/11/2025|My uncle's gonna gift me money to pay for my loan because last month things got bad for my mom and i and i needed to support so i borrowed money to support because we had no money left|Uncle
-|Food|1300|NA|31/12/2025|Stockking the house with much food so that we don't run out of food before the end of the month|Uncle
+|Charcoal|180|2|30/11/2025|It's my mom's responsibility to pay for charcoal whenever we need some but last month was a lot of challenges, my brother got sick and my mom paid for all the bills and also some difficulties regarding our electricity so she couldn't pay for charcoal|None
+|Gift|400|NA|30/11/2025|My uncle's gonna gift me money to pay for my loan because last month things got bad for my mom and i and i needed to support so i borrowed money to support because we had no money left|None
+|Food|1300|NA|31/12/2025|Stocking the house with much food so that we don't run out of food before the end of the month|Uncle
 |Electricity|1300|NA|31/12/2025|Enough electricity in the month so that uncle can always teach me and so that i can also communicate with my uncle all the time|Uncle
 |Pocket money|200|NA|31/12/2025|My uncle giving  e pocket money so that i can buy anything when needed|Uncle
 |Starlink|770|NA|31/12/2025|My uncle recharges the starlink for me so that i can always have a better internet connection|Uncle
@@ -36,7 +36,10 @@ total unpaid : 4330ghc
 |  Gift  |  160  |  30/12/2024  | My uncle to help me suprise my mom with a new pair of shoe |  :thumbsup: 
 |  Charcoal  |  180  |  30/12/2024  | Uncle to help me buy one bag of charcoal so that i can always cook in the house |  :thumbsup: 
 |  Gift  |  130  |  30/12/2024  | It was christmas and my uncle helped me to get my mom a pizza and she ate pizza for the first time |  :thumbsup: 
-|  Food  |  1300  |  30/01/2025  | Stocking the hmonth |  :thumbsup: 
+|  Food  |  1300  |  30/01/2025  | Stocking the house with food until the end of the month |  :thumbsup: 
+|  Medical  |  300  |    | Ankle Support is a medical item to wear on my ankle to support my ankle and reduces pains |  :thumbsup: 
+|  Starlink  |  770  |  17/02/2025  | satelite to establish a good internet connection |  :thumbsup: 
+|  Food  |  1300  |  28/02/2025  | Stocking the house with food until the end of the month |  :thumbsup: 
 |  Electricity  |  300  |  28/02/2025  | My uncle buys electricity for me so that i don't run out of electricity before the month ends |  :thumbsup: 
 |  Pocket money  |  200  |  28/02/2025  | Money to keep in my pocket so that whenever i need something i could buy |  :thumbsup: 
 |  Hygiene  |  150  |  28/02/2025  | Buying extra food to gain higher amount of protein |  :thumbsup: 
