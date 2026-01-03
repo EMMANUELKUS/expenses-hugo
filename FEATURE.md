@@ -7,9 +7,9 @@
 
 
 notes
-json vs. md (each own logical language)
-json types of blocks: object vs array
-json as structured language/document
+- [x] json vs. md (each own logical language)
+- [x]json types of blocks: object vs array
+- [x] json as structured language/document
 
 change
-make pal an enum property and add nice description
+- [x]make pal an enum property and add nice description

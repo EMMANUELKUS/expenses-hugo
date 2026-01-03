@@ -7,15 +7,11 @@
 |--------|--------|----------|-----|-------------|------
 |Charcoal|180|2|30/11/2025|It's my mom's responsibility to pay for charcoal whenever we need some but last month was a lot of challenges, my brother got sick and my mom paid for all the bills and also some difficulties regarding our electricity so she couldn't pay for charcoal|None
 |Gift|400|NA|30/11/2025|My uncle's gonna gift me money to pay for my loan because last month things got bad for my mom and i and i needed to support so i borrowed money to support because we had no money left|None
-|Food|1300|NA|31/12/2025|Stocking the house with much food so that we don't run out of food before the end of the month|Uncle
-|Electricity|1300|NA|31/12/2025|Enough electricity in the month so that uncle can always teach me and so that i can also communicate with my uncle all the time|Uncle
-|Pocket money|200|NA|31/12/2025|My uncle giving  e pocket money so that i can buy anything when needed|Uncle
-|Starlink|770|NA|31/12/2025|My uncle recharges the starlink for me so that i can always have a better internet connection|Uncle
 
 
 ### Summary
 
-total unpaid : 4330ghc
+total unpaid : 760ghc
 
 ## All Expenses
 
@@ -114,7 +110,7 @@ total unpaid : 4330ghc
 |  Starlink  |  770  |  30/11/2025  | Every month my uncle pays my starlink due so that i can recharge my starlink and have class with him all the time and also i can communicate with him whenever needed |  :thumbsup:  | NA | None
 |  Charcoal  |  180  |  30/11/2025  | It's my mom's responsibility to pay for charcoal whenever we need some but last month was a lot of challenges, my brother got sick and my mom paid for all the bills and also some difficulties regarding our electricity so she couldn't pay for charcoal |  :x:  | 2 | None
 |  Gift  |  400  |  30/11/2025  | My uncle's gonna gift me money to pay for my loan because last month things got bad for my mom and i and i needed to support so i borrowed money to support because we had no money left |  :x:  | NA | None
-|  Food  |  1300  |  31/12/2025  | Stocking the house with much food so that we don't run out of food before the end of the month |  :x:  | NA | Uncle
-|  Electricity  |  1300  |  31/12/2025  | Enough electricity in the month so that uncle can always teach me and so that i can also communicate with my uncle all the time |  :x:  | NA | Uncle
-|  Pocket money  |  200  |  31/12/2025  | My uncle giving  e pocket money so that i can buy anything when needed |  :x:  | NA | Uncle
-|  Starlink  |  770  |  31/12/2025  | My uncle recharges the starlink for me so that i can always have a better internet connection |  :x:  | NA | Uncle
+|  Food  |  1300  |  31/12/2025  | Stocking the house with much food so that we don't run out of food before the end of the month |  :thumbsup:  | NA | Uncle
+|  Electricity  |  1300  |  31/12/2025  | Enough electricity in the month so that uncle can always teach me and so that i can also communicate with my uncle all the time |  :thumbsup:  | NA | Uncle
+|  Pocket money  |  200  |  31/12/2025  | My uncle giving  e pocket money so that i can buy anything when needed |  :thumbsup:  | NA | Uncle
+|  Starlink  |  770  |  31/12/2025  | My uncle recharges the starlink for me so that i can always have a better internet connection |  :thumbsup:  | NA | Uncle

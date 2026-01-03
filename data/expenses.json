@@ -657,7 +657,7 @@
         "amount": 1300,
         "date": "31/12/2025",
         "explanation": "Stocking the house with much food so that we don't run out of food before the end of the month",
-        "paid": false,
+        "paid": true,
         "pal": "Uncle"
     },
     {
@@ -665,7 +665,7 @@
         "amount": 1300,
         "date": "31/12/2025",
         "explanation": "Enough electricity in the month so that uncle can always teach me and so that i can also communicate with my uncle all the time",
-        "paid": false,
+        "paid": true,
         "pal": "Uncle"
     },
     {
@@ -673,7 +673,7 @@
         "amount": 200,
         "date": "31/12/2025",
         "explanation": "My uncle giving  e pocket money so that i can buy anything when needed",
-        "paid": false,
+        "paid": true,
         "pal": "Uncle"
     },
     {
@@ -681,7 +681,7 @@
         "amount": 770,
         "date": "31/12/2025",
         "explanation": "My uncle recharges the starlink for me so that i can always have a better internet connection",
-        "paid": false,
+        "paid": true,
         "pal": "Uncle"
     }
 ]
