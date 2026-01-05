@@ -7,12 +7,15 @@
 |--------|--------|----------|-----|-------------|------
 |Charcoal|180|2|30/11/2025|It's my mom's responsibility to pay for charcoal whenever we need some but last month was a lot of challenges, my brother got sick and my mom paid for all the bills and also some difficulties regarding our electricity so she couldn't pay for charcoal|None
 |Gift|400|NA|30/11/2025|My uncle's gonna gift me money to pay for my loan because last month things got bad for my mom and i and i needed to support so i borrowed money to support because we had no money left|None
-|Gift|333|NA|31/1/2026|This is a test|Uncle
+|Food|1300|NA|31/01/2026|Money to stock the house with more food|Uncle
+|Electricity|300|NA|31/01/2026|Money for electricity so that i be able to have classes with my uncle whenever possible|Uncle
+|Pocket money|200|NA|31/01/2026|Money to keep for myself so that i can buy something whenever i need|Uncle
+|Starlink|770|NA|31/01/2026|My uncle pay for my starlink so that i can always have internet to learn|Uncle
 
 
 ### Summary
 
-Total unpaid: 1093ghc
+Total unpaid: 3330ghc
 
 #### Payments committed to by Uncle
 
@@ -119,4 +122,7 @@ Total unpaid: 0ghc
 |  Electricity  |  1300  |  31/12/2025  | Enough electricity in the month so that uncle can always teach me and so that i can also communicate with my uncle all the time |  :thumbsup:  | NA | Uncle
 |  Pocket money  |  200  |  31/12/2025  | My uncle giving  e pocket money so that i can buy anything when needed |  :thumbsup:  | NA | Uncle
 |  Starlink  |  770  |  31/12/2025  | My uncle recharges the starlink for me so that i can always have a better internet connection |  :thumbsup:  | NA | Uncle
-|  Gift  |  333  |  31/1/2026  | This is a test |  :x:  | NA | Uncle
+|  Food  |  1300  |  31/01/2026  | Money to stock the house with more food |  :x:  | NA | Uncle
+|  Electricity  |  300  |  31/01/2026  | Money for electricity so that i be able to have classes with my uncle whenever possible |  :x:  | NA | Uncle
+|  Pocket money  |  200  |  31/01/2026  | Money to keep for myself so that i can buy something whenever i need |  :x:  | NA | Uncle
+|  Starlink  |  770  |  31/01/2026  | My uncle pay for my starlink so that i can always have internet to learn |  :x:  | NA | Uncle
