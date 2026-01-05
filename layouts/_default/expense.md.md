@@ -1,3 +1,11 @@
+|Purpose | Amount | Quantity |Date | Explanation | Pal |
+|--------|--------|----------|-----|-------------|------
+{{ $total := 0 }}{{ $total_uncle := 0 }}{{ range .Site.Data.expenses }}{{if eq .paid false }}|{{ .purpose }}|{{ .amount }}|{{ default "NA" .quantity }}|{{ .date }}|{{ .explanation }}|{{ $total = add $total (mul (default 1 .quantity) .amount) }}{{ default "None" .pal }}{{ if eq .paid Uncle}}{{ $total_Uncle = add .amount}}
+{{ end }}{{ end }}
+
+
+
+
 ## Upcoming Expense
 
 ### Details 
@@ -5,7 +13,7 @@
 
 |Purpose | Amount | Quantity |Date | Explanation | Pal |
 |--------|--------|----------|-----|-------------|------
-{{ $total := 0 }}{{ $total_uncle := 0 }}{{ range .Site.Data.expenses }}{{if eq .paid false }}|{{ .purpose }}|{{ .amount }}|{{ default "NA" .quantity }}|{{ .date }}|{{ .explanation }}|{{ $total = add $total (mul (default 1 .quantity) .amount) }}{{ default "None" .pal }}{{ if eq .paid Uncle}}{{ $total_Uncle = add .amount}}
+{{ $total := 0 }}{{ $total_uncle := 0 }}{{ range .Site.Data.expenses }}{{if eq .paid false }}|{{ .purpose }}|{{ .amount }}|{{ default "NA" .quantity }}|{{ .date }}|{{ .explanation }}|{{ $total = add $total (mul (default 1 .quantity) .amount) }}{{ default "None" .pal }}
 {{ end }}{{ end }}
 
 ### Summary
