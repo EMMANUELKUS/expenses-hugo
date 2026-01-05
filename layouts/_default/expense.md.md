@@ -5,12 +5,16 @@
 
 |Purpose | Amount | Quantity |Date | Explanation | Pal |
 |--------|--------|----------|-----|-------------|------
-{{ $total := 0 }}{{ range .Site.Data.expenses }}{{if eq .paid false }}|{{ .purpose }}|{{ .amount }}|{{ default "NA" .quantity }}|{{ .date }}|{{ .explanation }}|{{ $total = add $total (mul (default 1 .quantity) .amount) }}{{ default "None" .pal }}
+{{ $total := 0 }}{{ $total_uncle := 0 }}{{ range .Site.Data.expenses }}{{if eq .paid false }}|{{ .purpose }}|{{ .amount }}|{{ default "NA" .quantity }}|{{ .date }}|{{ .explanation }}|{{ $total = add $total (mul (default 1 .quantity) .amount) }}{{ default "None" .pal }}
 {{ end }}{{ end }}
 
 ### Summary
 
-total unpaid : {{ $total }}ghc
+Total unpaid: {{ $total }}ghc
+
+#### Payments committed to by Uncle
+
+Total unpaid: {{ $total_uncle }}ghc
 
 ## All Expenses
 
