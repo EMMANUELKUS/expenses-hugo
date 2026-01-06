@@ -1,11 +1,3 @@
-|Purpose | Amount | Quantity |Date | Explanation | Pal |
-|--------|--------|----------|-----|-------------|------
-{{ $total := 0 }}{{ $total_uncle := 0 }}{{ range .Site.Data.expenses }}{{if eq .paid false }}|{{ .purpose }}|{{ .amount }}|{{ default "NA" .quantity }}|{{ .date }}|{{ .explanation }}|{{ $total = add $total (mul (default 1 .quantity) .amount) }}{{ default "None" .pal }}{{ if eq .paid Uncle}}{{ $total_Uncle = add .amount}}
-{{ end }}{{ end }}
-
-
-
-
 ## Upcoming Expense
 
 ### Details 
@@ -13,7 +5,7 @@
 
 |Purpose | Amount | Quantity |Date | Explanation | Pal |
 |--------|--------|----------|-----|-------------|------
-{{ $total := 0 }}{{ $total_uncle := 0 }}{{ range .Site.Data.expenses }}{{if eq .paid false }}|{{ .purpose }}|{{ .amount }}|{{ default "NA" .quantity }}|{{ .date }}|{{ .explanation }}|{{ $total = add $total (mul (default 1 .quantity) .amount) }}{{ default "None" .pal }}
+{{ $total := 0 }}{{ $total_Uncle := 0 }}{{ range .Site.Data.expenses }}{{if eq .paid false }}|{{ .purpose }}|{{ .amount }}|{{ default "NA" .quantity }}|{{ .date }}|{{ .explanation }}|{{ default "None" .pal }}{{ $total = add $total (mul (default 1 .quantity) .amount) }}{{if eq .pal "Uncle" }}{{ $total_Uncle = add $total_Uncle (mul .amount (default 1 .quantity))}}{{end}}
 {{ end }}{{ end }}
 
 ### Summary
@@ -22,7 +14,7 @@ Total unpaid: {{ $total }}ghc
 
 #### Payments committed to by Uncle
 
-Total unpaid: {{ $total_uncle }}ghc
+Total amount Uncle want to pay: {{ $total_Uncle }}ghc
 
 ## All Expenses
 

@@ -19,7 +19,7 @@ Total unpaid: 3330ghc
 
 #### Payments committed to by Uncle
 
-Total unpaid: 0ghc
+Total amount Uncle want to pay: 2570ghc
 
 ## All Expenses
 
