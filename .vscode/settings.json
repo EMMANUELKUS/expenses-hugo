@@ -1,6 +1,5 @@
 {
     "json.schemas": [
-        
         {
             "fileMatch": [
                 "/data/expenses.json"
@@ -8,5 +7,14 @@
             "url": "./schemas/expenses.json"
         },
     ],
-    "json.schemaDownload.enable": true
+    "json.schemaDownload.enable": true,
+    "emeraldwalk.runonsave": {
+        "commands": [
+
+            {
+                "match": "data/expenses\\.json",
+                "cmd": "hugo"
+            }
+        ]
+    }
 }

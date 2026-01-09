@@ -10,6 +10,8 @@ In this feature, we added a JSON expense object property called `pal` which allo
 
 ### Option 1
 
+We are going to use a vscode extension called run on save
+
 ### Option 2
 
 ### Option 3
