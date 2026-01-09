@@ -10,7 +10,6 @@
     "json.schemaDownload.enable": true,
     "emeraldwalk.runonsave": {
         "commands": [
-
             {
                 "match": "data/expenses\\.json",
                 "cmd": "hugo"

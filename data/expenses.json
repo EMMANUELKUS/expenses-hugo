@@ -720,6 +720,6 @@
         "purpose": "Test",
         "amount": 123,
         "explanation": "This is a test expense item",
-        "paid": false 
+        "paid": false
     }
 ]
