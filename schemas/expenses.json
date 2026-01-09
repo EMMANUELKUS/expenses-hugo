@@ -19,7 +19,8 @@
                     "Personal",
                     "Legal",
                     "Transportation",
-                    "Maintenance"
+                    "Maintenance",
+                    "Test"
                 ]
             },
             "amount": {  

@@ -715,5 +715,11 @@
         "explanation": "My uncle pay for my starlink so that i can always have internet to learn",
         "paid": false,
         "pal": "Uncle"
+    },
+    {
+        "purpose": "Test",
+        "amount": 123,
+        "explanation": "This is a test expense item",
+        "paid": false
     }
 ]
