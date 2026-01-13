@@ -8,7 +8,7 @@ In this feature, we added a JSON expense object property called `pal` which allo
 **Option 2:** A way to run `hugo` before a push to GitHub
 **Option 3:** Remove the artefact from the repository, and add a *GitHub action* that generates the artefact on GitHub instead of generating it locally and comitting it to the repository.
 
-### Option 1
+### Option 1 (`feature/run-on-save`)
 
 We are going to use a vscode extension called run on save.
 
