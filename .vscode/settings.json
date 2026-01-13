@@ -8,5 +8,8 @@
             "url": "./schemas/expenses.json"
         },
     ],
-    "json.schemaDownload.enable": true
+    "json.schemaDownload.enable": true,
+    "files.exclude": {
+        "**/.git": false
+    }
 }
