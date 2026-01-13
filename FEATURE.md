@@ -10,7 +10,9 @@ In this feature, we added a JSON expense object property called `pal` which allo
 
 ### Option 1
 
-We are going to use a vscode extension called run on save
+We are going to use a vscode extension called run on save.
+
+Status :white_check_mark: Done
 
 ### Option 2
 
