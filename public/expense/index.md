@@ -11,11 +11,12 @@
 |Electricity|300|NA|31/01/2026|Money for electricity so that i be able to have classes with my uncle whenever possible|Uncle
 |Pocket money|200|NA|31/01/2026|Money to keep for myself so that i can buy something whenever i need|Uncle
 |Starlink|770|NA|31/01/2026|My uncle pay for my starlink so that i can always have internet to learn|Uncle
+|Test|123|NA|<no value>|This is a test expense item|None
 
 
 ### Summary
 
-Total unpaid: 3330ghc
+Total unpaid: 3453ghc
 
 #### Payments committed to by Uncle
 
@@ -126,3 +127,4 @@ Total amount Uncle want to pay: 2570ghc
 |  Electricity  |  300  |  31/01/2026  | Money for electricity so that i be able to have classes with my uncle whenever possible |  :x:  | NA | Uncle
 |  Pocket money  |  200  |  31/01/2026  | Money to keep for myself so that i can buy something whenever i need |  :x:  | NA | Uncle
 |  Starlink  |  770  |  31/01/2026  | My uncle pay for my starlink so that i can always have internet to learn |  :x:  | NA | Uncle
+|  Test  |  123  |  Unspecified  | This is a test expense item |  :x:  | NA | None
