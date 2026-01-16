@@ -1,0 +1,4 @@
+
+# Copy the pre-push script from the root of the repository
+# to .git/hooks, where it is automatically called by git.
+cp pre-push .git/hooks
