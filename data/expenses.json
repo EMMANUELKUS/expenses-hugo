@@ -686,7 +686,7 @@
     },
     {
         "purpose": "Food",
-        "amount": 1300,
+        "amount": 1500,
         "date": "31/01/2026",
         "explanation": "Money to stock the house with more food",
         "paid": false,
@@ -702,7 +702,7 @@
     },
     {
         "purpose": "Pocket money",
-        "amount": 200,
+        "amount": 300,
         "date": "31/01/2026",
         "explanation": "Money to keep for myself so that i can buy something whenever i need",
         "paid": false,
@@ -717,9 +717,11 @@
         "pal": "Uncle"
     },
     {
-        "purpose": "Test",
-        "amount": 123,
-        "explanation": "This is a test expense item",
-        "paid": false
+        "purpose": "Medical",
+        "amount": 100,
+        "date": "31/01/2026",
+        "explanation": "This is money to go to the hospital for x-ray to know how my bone is healing",
+        "paid": false,
+        "pal": "Uncle"
     }
 ]
