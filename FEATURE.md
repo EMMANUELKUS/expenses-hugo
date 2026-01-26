@@ -12,4 +12,13 @@ In this feature, we added a JSON expense object property called `pal` which allo
 
 ### Option 2
 
+#### Pre-requisite knowledge
+
+- File modes (using `chmod`), and namely the executable flag
+- Shell scripts and the shebang
+- Exit codes in the shell
+- Memory storage in the file system (the `/tmp` location)
+- The `diff` command in the shell
+- ...
+
 ### Option 3
