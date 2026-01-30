@@ -689,7 +689,7 @@
         "amount": 1500,
         "date": "31/01/2026",
         "explanation": "Money to stock the house with more food",
-        "paid": false,
+        "paid": true,
         "pal": "Uncle"
     },
     {
@@ -697,7 +697,7 @@
         "amount": 300,
         "date": "31/01/2026",
         "explanation": "Money for electricity so that i be able to have classes with my uncle whenever possible",
-        "paid": false,
+        "paid": true,
         "pal": "Uncle"
     },
     {
@@ -705,7 +705,7 @@
         "amount": 300,
         "date": "31/01/2026",
         "explanation": "Money to keep for myself so that i can buy something whenever i need",
-        "paid": false,
+        "paid": true,
         "pal": "Uncle"
     },
     {
@@ -713,7 +713,7 @@
         "amount": 770,
         "date": "31/01/2026",
         "explanation": "My uncle pay for my starlink so that i can always have internet to learn",
-        "paid": false,
+        "paid": true,
         "pal": "Uncle"
     },
     {
@@ -721,6 +721,46 @@
         "amount": 100,
         "date": "31/01/2026",
         "explanation": "This is money to go to the hospital for x-ray to know how my bone is healing",
+        "paid": true,
+        "pal": "Uncle"
+    },
+    {
+        "purpose": "Food",
+        "amount": 1500,
+        "date": "28/02/2026",
+        "explanation": "Money to buy food till the end of the month",
+        "paid": false,
+        "pal": "Uncle"
+    },
+    {
+        "purpose": "Electricity",
+        "amount": 300,
+        "date": "28/02/2026",
+        "explanation": "Money for electricity",
+        "paid": false,
+        "pal": "Uncle"
+    },
+    {
+        "purpose": "Pocket money",
+        "amount": 200,
+        "date": "28/02/2026",
+        "explanation": "Pocket money to keep so that i can be able to buy something when needed",
+        "paid": false,
+        "pal": "Uncle"
+    },
+    {
+        "purpose": "Extra Food",
+        "amount": 186,
+        "date": "28/02/2026",
+        "explanation": "Extra money to buy extra food like eggs to get more protein",
+        "paid": false,
+        "pal": "Uncle"
+    },
+    {
+        "purpose": "Starlink",
+        "amount": 770,
+        "date": "28/02/2026",
+        "explanation": "Uncle to help me pay my starlink bill so that  can always get a better internet connection",
         "paid": false,
         "pal": "Uncle"
     }
