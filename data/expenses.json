@@ -763,5 +763,13 @@
         "explanation": "Uncle to help me pay my starlink bill so that  can always get a better internet connection",
         "paid": false,
         "pal": "Uncle"
+    },
+    {
+        "purpose": "Charcoal",
+        "amount": 180,
+        "date": "11/03/2026",
+        "explanation": "My uncle to help me with money to buy charcoal",
+        "paid": false,
+        "pal": "Uncle"
     }
 ]

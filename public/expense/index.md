@@ -12,15 +12,16 @@
 |Pocket money|200|NA|28/02/2026|Pocket money to keep so that i can be able to buy something when needed|Uncle
 |Extra Food|186|NA|28/02/2026|Extra money to buy extra food like eggs to get more protein|Uncle
 |Starlink|770|NA|28/02/2026|Uncle to help me pay my starlink bill so that  can always get a better internet connection|Uncle
+|Charcoal|180|NA|11/03/2026|My uncle to help me with money to buy charcoal|Uncle
 
 
 ### Summary
 
-Total unpaid: 3716ghc
+Total unpaid: 3896ghc
 
 #### Payments committed to by Uncle
 
-Total amount Uncle want to pay: 2956ghc
+Total amount Uncle want to pay: 3136ghc
 
 ## All Expenses
 
@@ -133,3 +134,4 @@ Total amount Uncle want to pay: 2956ghc
 |  Pocket money  |  200  |  28/02/2026  | Pocket money to keep so that i can be able to buy something when needed |  :x:  | NA | Uncle
 |  Extra Food  |  186  |  28/02/2026  | Extra money to buy extra food like eggs to get more protein |  :x:  | NA | Uncle
 |  Starlink  |  770  |  28/02/2026  | Uncle to help me pay my starlink bill so that  can always get a better internet connection |  :x:  | NA | Uncle
+|  Charcoal  |  180  |  11/03/2026  | My uncle to help me with money to buy charcoal |  :x:  | NA | Uncle
