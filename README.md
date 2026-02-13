@@ -90,3 +90,4 @@ Initialy we were able to discover or detect bugs only in the final stage (D) but
 - Add an optional property named quantity to the expense object schema
 - Commit and push the changes in the HUGO expense project with a meaningful commit message
 - Add error to the amount and the purpose in the template and also add quantity as a colon to the template. 
+
