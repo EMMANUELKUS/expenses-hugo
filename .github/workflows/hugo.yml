@@ -45,9 +45,9 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
                   - name: Convert markdown to HTML
-         run: |
-          sudo apt-get install -y pandoc
-          pandoc public/expense/index.md -f gfm+emoji -o public/expense/index.html
+                    run: |
+                      sudo apt-get install -y pandoc
+                      pandoc public/expense/index.md -f gfm+emoji -o public/expense/index.html
       - name: Upload generated artifacts
         uses: actions/upload-pages-artifact@v3
         with:
