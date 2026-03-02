@@ -5,19 +5,17 @@
 
 |Purpose | Amount | Quantity |Date | Explanation | Pal |
 |--------|--------|----------|-----|-------------|------
-|Charcoal|180|2|30/11/2025|It's my mom's responsibility to pay for charcoal whenever we need some but last month was a lot of challenges, my brother got sick and my mom paid for all the bills and also some difficulties regarding our electricity so she couldn't pay for charcoal|None
-|Gift|400|NA|30/11/2025|My uncle's gonna gift me money to pay for my loan because last month things got bad for my mom and i and i needed to support so i borrowed money to support because we had no money left|None
-|Food|1500|NA|28/02/2026|Money to buy food till the end of the month|Uncle
-|Electricity|300|NA|28/02/2026|Money for electricity|Uncle
-|Pocket money|200|NA|28/02/2026|Pocket money to keep so that i can be able to buy something when needed|Uncle
-|Extra Food|186|NA|28/02/2026|Extra money to buy extra food like eggs to get more protein|Uncle
-|Starlink|770|NA|28/02/2026|Uncle to help me pay my starlink bill so that  can always get a better internet connection|Uncle
 |Charcoal|180|NA|11/03/2026|My uncle to help me with money to buy charcoal|Uncle
+|Food|1500|NA|31/03/2026|Buying enough food for the month|Uncle
+|Electricity|300|NA|31/03/2026|My uncle gives me this money to pay for light bills|Uncle
+|Pocket money|200|NA|31/03/2026|My uncle gives me pocket money so that i can buy anything i need|Uncle
+|Extra Food|186|NA|31/03/2026|Extra money to buy extra food so that i can get more protein|Uncle
+|Starlink|770|NA|31/03/2026|Starlink monthly dues|Uncle
 
 
 ### Summary
 
-Total unpaid: 3896ghc
+Total unpaid: 3136ghc
 
 #### Payments committed to by Uncle
 
@@ -118,8 +116,6 @@ Total amount Uncle want to pay: 3136ghc
 |  Electricity  |  300  |  30/11/2025  | Every month my uncle helps us to pay for our electricity so that i and my mom can have light always |  :thumbsup:  | NA | None
 |  Pocket money  |  200  |  30/11/2025  | My uncle gives me money to keep in my pocket so that whenever i need something i can buy |  :thumbsup:  | NA | None
 |  Starlink  |  770  |  30/11/2025  | Every month my uncle pays my starlink due so that i can recharge my starlink and have class with him all the time and also i can communicate with him whenever needed |  :thumbsup:  | NA | None
-|  Charcoal  |  180  |  30/11/2025  | It's my mom's responsibility to pay for charcoal whenever we need some but last month was a lot of challenges, my brother got sick and my mom paid for all the bills and also some difficulties regarding our electricity so she couldn't pay for charcoal |  :x:  | 2 | None
-|  Gift  |  400  |  30/11/2025  | My uncle's gonna gift me money to pay for my loan because last month things got bad for my mom and i and i needed to support so i borrowed money to support because we had no money left |  :x:  | NA | None
 |  Food  |  1300  |  31/12/2025  | Stocking the house with much food so that we don't run out of food before the end of the month |  :thumbsup:  | NA | Uncle
 |  Electricity  |  1300  |  31/12/2025  | Enough electricity in the month so that uncle can always teach me and so that i can also communicate with my uncle all the time |  :thumbsup:  | NA | Uncle
 |  Pocket money  |  200  |  31/12/2025  | My uncle giving  e pocket money so that i can buy anything when needed |  :thumbsup:  | NA | Uncle
@@ -129,9 +125,14 @@ Total amount Uncle want to pay: 3136ghc
 |  Pocket money  |  300  |  31/01/2026  | Money to keep for myself so that i can buy something whenever i need |  :thumbsup:  | NA | Uncle
 |  Starlink  |  770  |  31/01/2026  | My uncle pay for my starlink so that i can always have internet to learn |  :thumbsup:  | NA | Uncle
 |  Medical  |  100  |  31/01/2026  | This is money to go to the hospital for x-ray to know how my bone is healing |  :thumbsup:  | NA | Uncle
-|  Food  |  1500  |  28/02/2026  | Money to buy food till the end of the month |  :x:  | NA | Uncle
-|  Electricity  |  300  |  28/02/2026  | Money for electricity |  :x:  | NA | Uncle
-|  Pocket money  |  200  |  28/02/2026  | Pocket money to keep so that i can be able to buy something when needed |  :x:  | NA | Uncle
-|  Extra Food  |  186  |  28/02/2026  | Extra money to buy extra food like eggs to get more protein |  :x:  | NA | Uncle
-|  Starlink  |  770  |  28/02/2026  | Uncle to help me pay my starlink bill so that  can always get a better internet connection |  :x:  | NA | Uncle
+|  Food  |  1500  |  28/02/2026  | Money to buy food till the end of the month |  :thumbsup:  | NA | Uncle
+|  Electricity  |  300  |  28/02/2026  | Money for electricity |  :thumbsup:  | NA | Uncle
+|  Pocket money  |  200  |  28/02/2026  | Pocket money to keep so that i can be able to buy something when needed |  :thumbsup:  | NA | Uncle
+|  Extra Food  |  186  |  28/02/2026  | Extra money to buy extra food like eggs to get more protein |  :thumbsup:  | NA | Uncle
+|  Starlink  |  770  |  28/02/2026  | Uncle to help me pay my starlink bill so that  can always get a better internet connection |  :thumbsup:  | NA | Uncle
 |  Charcoal  |  180  |  11/03/2026  | My uncle to help me with money to buy charcoal |  :x:  | NA | Uncle
+|  Food  |  1500  |  31/03/2026  | Buying enough food for the month |  :x:  | NA | Uncle
+|  Electricity  |  300  |  31/03/2026  | My uncle gives me this money to pay for light bills |  :x:  | NA | Uncle
+|  Pocket money  |  200  |  31/03/2026  | My uncle gives me pocket money so that i can buy anything i need |  :x:  | NA | Uncle
+|  Extra Food  |  186  |  31/03/2026  | Extra money to buy extra food so that i can get more protein |  :x:  | NA | Uncle
+|  Starlink  |  770  |  31/03/2026  | Starlink monthly dues |  :x:  | NA | Uncle
