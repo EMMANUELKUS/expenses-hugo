@@ -130,7 +130,7 @@ Total amount Uncle want to pay: 3136ghc
 |  Pocket money  |  200  |  28/02/2026  | Pocket money to keep so that i can be able to buy something when needed |  :thumbsup:  | NA | Uncle
 |  Extra Food  |  186  |  28/02/2026  | Extra money to buy extra food like eggs to get more protein |  :thumbsup:  | NA | Uncle
 |  Starlink  |  770  |  28/02/2026  | Uncle to help me pay my starlink bill so that  can always get a better internet connection |  :thumbsup:  | NA | Uncle
-|  Charcoal  |  180  |  11/03/2026  | My uncle to help me with money to buy charcoal |  :x:  | NA | Uncle
+|  Charcoal  |  180  |  11/03/2026  | My uncle to help me with money to buy charcoal |  :thumbsup:  | NA | Uncle
 |  Food  |  1500  |  31/03/2026  | Buying enough food for the month |  :x:  | NA | Uncle
 |  Electricity  |  300  |  31/03/2026  | My uncle gives me this money to pay for light bills |  :x:  | NA | Uncle
 |  Pocket money  |  200  |  31/03/2026  | My uncle gives me pocket money so that i can buy anything i need |  :x:  | NA | Uncle
