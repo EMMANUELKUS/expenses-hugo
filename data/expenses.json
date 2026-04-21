@@ -746,54 +746,6 @@
         "amount": 770,
         "date": "28/02/2026",
         "explanation": "Uncle to help me pay my starlink bill so that  can always get a better internet connection",
-        "paid": true,
-        "pal": "Uncle"
-    },
-    {
-        "purpose": "Charcoal",
-        "amount": 180,
-        "date": "11/03/2026",
-        "explanation": "My uncle to help me with money to buy charcoal",
-        "paid": false,
-        "pal": "Uncle"
-    },
-    {
-        "purpose": "Food",
-        "amount": 1500,
-        "date": "31/03/2026",
-        "explanation": "Buying enough food for the month",
-        "paid": false,
-        "pal": "Uncle"
-    },
-    {
-        "purpose": "Electricity",
-        "amount": 300,
-        "date": "31/03/2026",
-        "explanation": "My uncle gives me this money to pay for light bills",
-        "paid": false,
-        "pal": "Uncle"
-    },
-    {
-        "purpose": "Pocket money",
-        "amount": 200,
-        "date": "31/03/2026",
-        "explanation": "My uncle gives me pocket money so that i can buy anything i need",
-        "paid": false,
-        "pal": "Uncle"
-    },
-    {
-        "purpose": "Extra Food",
-        "amount": 186,
-        "date": "31/03/2026",
-        "explanation": "Extra money to buy extra food so that i can get more protein",
-        "paid": false,
-        "pal": "Uncle"
-    },
-    {
-        "purpose": "Starlink",
-        "amount": 770,
-        "date": "31/03/2026",
-        "explanation": "Starlink monthly dues",
         "paid": false,
         "pal": "Uncle"
     }
