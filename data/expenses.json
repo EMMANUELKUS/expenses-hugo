@@ -777,7 +777,7 @@
         "amount": 300,
         "date": "31/03/2026",
         "explanation": "Money for electricity",
-        "paid": truee,
+        "paid": true,
         "pal": "Uncle"
     },
     {
@@ -853,12 +853,11 @@
         "pal": "Uncle"
     },
     {   
-        "purpose": "Medical"
+        "purpose": "Medical",
         "amount": 150,
         "date": "04/05/2026",
-        "explanation": "It's been almost two months since i had my last xray so am going to have another one to see how my ankle surgery is going"
+        "explanation": "It's been almost two months since i had my last xray so am going to have another one to see how my ankle surgery is going",
         "paid": false,
         "pal": "Uncle"
     }
-        
 ]
