@@ -5,21 +5,22 @@
 
 |Purpose | Amount | Quantity |Date | Explanation | Pal |
 |--------|--------|----------|-----|-------------|------
-|Charcoal|180|NA|11/03/2026|My uncle to help me with money to buy charcoal|Uncle
-|Food|1500|NA|31/03/2026|Buying enough food for the month|Uncle
-|Electricity|300|NA|31/03/2026|My uncle gives me this money to pay for light bills|Uncle
-|Pocket money|200|NA|31/03/2026|My uncle gives me pocket money so that i can buy anything i need|Uncle
-|Extra Food|186|NA|31/03/2026|Extra money to buy extra food so that i can get more protein|Uncle
-|Starlink|770|NA|31/03/2026|Starlink monthly dues|Uncle
+|Food|1500|NA|01/05/2026|Money to buy food till the end of the month|Uncle
+|Electricity|300|NA|01/05/2026|Money for electricity|Uncle
+|Pocket money|200|NA|01/05/2026|Pocket money to keep so that i can be able to buy something when needed|Uncle
+|Extra Food|186|NA|01/05/2026|Extra money to buy extra food like eggs to get more protein|Uncle
+|Starlink|770|NA|01/05/2026|Uncle to help me pay my starlink bill so that  can always get a better internet connection|Uncle
+|Gift|200|NA|01/05/2026|My slippers were spoiled last month nit i decided to maintain it like that for a while but this time it is completely spoiled|Uncle
+|Medical|150|NA|01/05/2026|It's been almost two months since i had my last xray so am going to have another one to see how my ankle surgery is going|Uncle
 
 
 ### Summary
 
-Total unpaid: 3136ghc
+Total unpaid: 3306ghc
 
 #### Payments committed to by Uncle
 
-Total amount Uncle want to pay: 3136ghc
+Total amount Uncle want to pay: 3306ghc
 
 ## All Expenses
 
@@ -130,9 +131,15 @@ Total amount Uncle want to pay: 3136ghc
 |  Pocket money  |  200  |  28/02/2026  | Pocket money to keep so that i can be able to buy something when needed |  :thumbsup:  | NA | Uncle
 |  Extra Food  |  186  |  28/02/2026  | Extra money to buy extra food like eggs to get more protein |  :thumbsup:  | NA | Uncle
 |  Starlink  |  770  |  28/02/2026  | Uncle to help me pay my starlink bill so that  can always get a better internet connection |  :thumbsup:  | NA | Uncle
-|  Charcoal  |  180  |  11/03/2026  | My uncle to help me with money to buy charcoal |  :x:  | NA | Uncle
-|  Food  |  1500  |  31/03/2026  | Buying enough food for the month |  :x:  | NA | Uncle
-|  Electricity  |  300  |  31/03/2026  | My uncle gives me this money to pay for light bills |  :x:  | NA | Uncle
-|  Pocket money  |  200  |  31/03/2026  | My uncle gives me pocket money so that i can buy anything i need |  :x:  | NA | Uncle
-|  Extra Food  |  186  |  31/03/2026  | Extra money to buy extra food so that i can get more protein |  :x:  | NA | Uncle
-|  Starlink  |  770  |  31/03/2026  | Starlink monthly dues |  :x:  | NA | Uncle
+|  Food  |  1500  |  31/03/2026  | Money to buy food till the end of the month |  :thumbsup:  | NA | Uncle
+|  Electricity  |  300  |  31/03/2026  | Money for electricity |  :thumbsup:  | NA | Uncle
+|  Pocket money  |  200  |  31/03/2026  | Pocket money to keep so that i can be able to buy something when needed |  :thumbsup:  | NA | Uncle
+|  Extra Food  |  186  |  31/03/2026  | Extra money to buy extra food like eggs to get more protein |  :thumbsup:  | NA | Uncle
+|  Starlink  |  770  |  31/03/2026  | Uncle to help me pay my starlink bill so that  can always get a better internet connection |  :thumbsup:  | NA | Uncle
+|  Food  |  1500  |  01/05/2026  | Money to buy food till the end of the month |  :x:  | NA | Uncle
+|  Electricity  |  300  |  01/05/2026  | Money for electricity |  :x:  | NA | Uncle
+|  Pocket money  |  200  |  01/05/2026  | Pocket money to keep so that i can be able to buy something when needed |  :x:  | NA | Uncle
+|  Extra Food  |  186  |  01/05/2026  | Extra money to buy extra food like eggs to get more protein |  :x:  | NA | Uncle
+|  Starlink  |  770  |  01/05/2026  | Uncle to help me pay my starlink bill so that  can always get a better internet connection |  :x:  | NA | Uncle
+|  Gift  |  200  |  01/05/2026  | My slippers were spoiled last month nit i decided to maintain it like that for a while but this time it is completely spoiled |  :x:  | NA | Uncle
+|  Medical  |  150  |  01/05/2026  | It's been almost two months since i had my last xray so am going to have another one to see how my ankle surgery is going |  :x:  | NA | Uncle
