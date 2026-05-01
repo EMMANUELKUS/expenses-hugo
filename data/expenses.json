@@ -794,7 +794,7 @@
         "amount": 1500,
         "date": "01/05/2026",
         "explanation": "Money to buy food till the end of the month",
-        "paid": false,
+        "paid": true,
         "pal": "Uncle"
     },
     {
@@ -802,7 +802,7 @@
         "amount": 300,
         "date": "01/05/2026",
         "explanation": "Money for electricity",
-        "paid": false,
+        "paid": true,
         "pal": "Uncle"
     },
     {
@@ -810,7 +810,7 @@
         "amount": 200,
         "date": "01/05/2026",
         "explanation": "Pocket money to keep so that i can be able to buy something when needed",
-        "paid": false,
+        "paid": true,
         "pal": "Uncle"
     },
     {
@@ -818,7 +818,7 @@
         "amount": 186,
         "date": "01/05/2026",
         "explanation": "Extra money to buy extra food like eggs to get more protein",
-        "paid": false,
+        "paid": true,
         "pal": "Uncle"
     },
     {
@@ -826,7 +826,7 @@
         "amount": 770,
         "date": "01/05/2026",
         "explanation": "Uncle to help me pay my starlink bill so that  can always get a better internet connection",
-        "paid": false,
+        "paid": true,
         "pal": "Uncle"
     },
     {
@@ -834,7 +834,7 @@
         "amount": 200,
         "date": "01/05/2026",
         "explanation": "My slippers were spoiled last month nit i decided to maintain it like that for a while but this time it is completely spoiled",
-        "paid": false,
+        "paid": true,
         "pal": "Uncle"
     },
     {   
@@ -842,6 +842,46 @@
         "amount": 150,
         "date": "01/05/2026",
         "explanation": "It's been almost two months since i had my last xray so am going to have another one to see how my ankle surgery is going",
+        "paid": true,
+        "pal": "Uncle"
+    },
+    {
+        "purpose": "Food",
+        "amount": 1500,
+        "date": "31/05/2026",
+        "explanation": "Money to buy more food",
+        "paid": false,
+        "pal": "Uncle"
+    },
+    {
+        "purpose": "Electricity",
+        "amount": 300,
+        "date": "31/05/2026",
+        "explanation": "My uncle buys electricity for me",
+        "paid": false,
+        "pal": "Uncle"
+    },
+    {
+        "purpose": "Pocket money",
+        "amount": 200,
+        "date": "31/05/2026",
+        "explanation": "My uncle gives me money that i can use to buy something when needed",
+        "paid": false,
+        "pal": "Uncle"
+    },
+    {
+        "purpose": "Extra Food",
+        "amount": 186,
+        "date": "31/05/2026",
+        "explanation": "My uncle gives me money to buy extra food to get protein",
+        "paid": false,
+        "pal": "Uncle"
+    },
+    {
+        "purpose": "Starlink",
+        "amount": 770,
+        "date": "31/05/2026",
+        "explanation": "My uncle pays fr me my starlink monthly due",
         "paid": false,
         "pal": "Uncle"
     }
