@@ -884,5 +884,21 @@
         "explanation": "My uncle pays fr me my starlink monthly due",
         "paid": false,
         "pal": "Uncle"
+    },
+    {
+        "purpose": "Gift",
+        "amount": 400,
+        "date": "31/05/2026",
+        "explanation": "My phone's battery is spoiled and my uncle will help me buy a new one",
+        "paid": false,
+        "pal": "Uncle"
+    },
+    {
+        "purpose": "Extra Food",
+        "amount": 260,
+        "date": "31/05/2026",
+        "explanation": "My uncle already gives me extra money to buy eggs for protein but i also need to eat fruits too, so if my uncle like, he can send me this amount to add to the extra food's money to manage to buy the eggs and the fruits",
+        "paid": false,
+        "pal": "Uncle"
     }
 ]
