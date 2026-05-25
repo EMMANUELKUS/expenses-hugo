@@ -871,9 +871,19 @@
     },
     {
         "purpose": "Extra Food",
-        "amount": 186,
+        "amount": 45,
+        "quantity": 2,
         "date": "31/05/2026",
-        "explanation": "Crates of eggs and the rest of the money for meat",
+        "explanation": "Egg crates (30 eggs each)",
+        "paid": false,
+        "pal": "Uncle"
+    },
+    {
+        "purpose": "Extra Food",
+        "amount": 25,
+        "quantity": 4,
+        "date": "31/05/2026",
+        "explanation": "Fresh meat batches",
         "paid": false,
         "pal": "Uncle"
     },
