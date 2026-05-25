@@ -849,7 +849,7 @@
         "purpose": "Food",
         "amount": 1500,
         "date": "31/05/2026",
-        "explanation": "Money to buy more food",
+        "explanation": "",
         "paid": false,
         "pal": "Uncle"
     },
@@ -857,7 +857,7 @@
         "purpose": "Electricity",
         "amount": 300,
         "date": "31/05/2026",
-        "explanation": "My uncle buys electricity for me",
+        "explanation": "",
         "paid": false,
         "pal": "Uncle"
     },
@@ -865,7 +865,7 @@
         "purpose": "Pocket money",
         "amount": 200,
         "date": "31/05/2026",
-        "explanation": "Money to be kept in my pocket and buy something when i need",
+        "explanation": "",
         "paid": false,
         "pal": "Uncle"
     },
@@ -873,7 +873,7 @@
         "purpose": "Extra Food",
         "amount": 186,
         "date": "31/05/2026",
-        "explanation": "I buy crates of eggs and some fresh meats",
+        "explanation": "Crates of eggs and the rest of the money for meat",
         "paid": false,
         "pal": "Uncle"
     },
@@ -881,7 +881,7 @@
         "purpose": "Starlink",
         "amount": 770,
         "date": "31/05/2026",
-        "explanation": "My uncle pays for my starlink monthly due",
+        "explanation": "",
         "paid": false,
         "pal": "Uncle"
     },
@@ -889,7 +889,7 @@
         "purpose": "Gift",
         "amount": 400,
         "date": "31/05/2026",
-        "explanation": "I used my pocket money last month to fix my phone's  broken screen but it turned out that it was not just about the screen so i need to change the battery too",
+        "explanation": "After fixing my phone's screen it turned out i need to change my battery too 300 for the battery and 100 for the labourer",
         "paid": false,
         "pal": "Uncle"
     },
@@ -897,7 +897,15 @@
         "purpose": "Extra Food",
         "amount": 260,
         "date": "31/05/2026",
-        "explanation": "Since i need more protein like calcium vitamin d vitamin c I ask my uncleto help me get some fruits too",
+        "explanation": "Fruits for protein",
+        "paid": false,
+        "pal": "Uncle"
+    },
+    {
+        "purpose": "Medical",
+        "amount": 250,
+        "date": "31/05/2026",
+        "explanation": "Going to have an appointment with an orthopedic doctor to get his thought on my ankle's state",
         "paid": false,
         "pal": "Uncle"
     }
