@@ -881,7 +881,7 @@
         "purpose": "Starlink",
         "amount": 770,
         "date": "31/05/2026",
-        "explanation": "My uncle pays fr me my starlink monthly due",
+        "explanation": "My uncle pays for my starlink monthly due",
         "paid": false,
         "pal": "Uncle"
     },
@@ -889,7 +889,7 @@
         "purpose": "Gift",
         "amount": 400,
         "date": "31/05/2026",
-        "explanation": "I used my pocket money last month to fix my phone's screen but it turned out that it was not just about the screen so i need to change the battery too",
+        "explanation": "I used my pocket money last month to fix my phone's  broken screen but it turned out that it was not just about the screen so i need to change the battery too",
         "paid": false,
         "pal": "Uncle"
     },
