@@ -809,7 +809,7 @@
         "purpose": "Pocket money",
         "amount": 200,
         "date": "01/04/2026",
-        "explanation": "Pocket money to keep so that i can be able to buy something when needed",
+        "explanation": "This money was supposed to be kept in my pocket but i decided to us it for a physico but it didn't happen so i used it to fix my phone's broken screen",
         "paid": true,
         "pal": "Uncle"
     },
@@ -817,7 +817,7 @@
         "purpose": "Extra Food",
         "amount": 186,
         "date": "01/04/2026",
-        "explanation": "Extra money to buy extra food like eggs to get more protein",
+        "explanation": "My bone really need more strengh and more protein so i buy eggs and some fresh meats",
         "paid": true,
         "pal": "Uncle"
     },
@@ -833,7 +833,7 @@
         "purpose": "Gift",
         "amount": 200,
         "date": "01/04/2026",
-        "explanation": "My slippers were spoiled last month nit i decided to maintain it like that for a while but this time it is completely spoiled",
+        "explanation": "My slippers were spoiled last month i decided to maintain it like that for a while but this time it is completely spoiled",
         "paid": true,
         "pal": "Uncle"
     },
@@ -865,7 +865,7 @@
         "purpose": "Pocket money",
         "amount": 200,
         "date": "31/05/2026",
-        "explanation": "My uncle gives me money that i can use to buy something when needed",
+        "explanation": "Money to be kept in my pocket and buy something when i need",
         "paid": false,
         "pal": "Uncle"
     },
@@ -873,7 +873,7 @@
         "purpose": "Extra Food",
         "amount": 186,
         "date": "31/05/2026",
-        "explanation": "My uncle gives me money to buy extra food to get protein",
+        "explanation": "I buy crates of eggs and some fresh meats",
         "paid": false,
         "pal": "Uncle"
     },
@@ -889,7 +889,7 @@
         "purpose": "Gift",
         "amount": 400,
         "date": "31/05/2026",
-        "explanation": "My phone's battery is spoiled and my uncle will help me buy a new one",
+        "explanation": "I used my pocket money last month to fix my phone's screen but it turned out that it was not just about the screen so i need to change the battery too",
         "paid": false,
         "pal": "Uncle"
     },
@@ -897,7 +897,7 @@
         "purpose": "Extra Food",
         "amount": 260,
         "date": "31/05/2026",
-        "explanation": "My uncle already gives me extra money to buy eggs for protein but i also need to eat fruits too, so if my uncle like, he can send me this amount to add to the extra food's money to manage to buy the eggs and the fruits",
+        "explanation": "Since i need more protein like calcium vitamin d vitamin c I ask my uncleto help me get some fruits too",
         "paid": false,
         "pal": "Uncle"
     }
