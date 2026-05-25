@@ -900,8 +900,7 @@
         "amount": 400,
         "date": "31/05/2026",
         "explanation": "After fixing my phone's screen it turned out i need to change my battery too 300 for the battery and 100 for the labourer",
-        "paid": false,
-        "pal": "Uncle"
+        "paid": false
     },
     {
         "purpose": "Extra Food",
