@@ -896,11 +896,12 @@
         "pal": "Uncle"
     },
     {
-        "purpose": "Gift",
-        "amount": 400,
+        "purpose": "Medical",
+        "amount": 250,
         "date": "31/05/2026",
-        "explanation": "After fixing my phone's screen it turned out i need to change my battery too 300 for the battery and 100 for the labourer",
-        "paid": false
+        "explanation": "Going to have an appointment with an orthopedic doctor to get his thought on my ankle's state",
+        "paid": true,
+        "pal": "Uncle"
     },
     {
         "purpose": "Extra Food",
@@ -912,10 +913,10 @@
     },
     {
         "purpose": "Medical",
-        "amount": 250,
+        "amount": 70,
         "date": "31/05/2026",
-        "explanation": "Going to have an appointment with an orthopedic doctor to get his thought on my ankle's state",
-        "paid": true,
+        "explanation": "",
+        "paid": false,
         "pal": "Uncle"
     },
     {
@@ -931,15 +932,15 @@
         "purpose": "Electricity",
         "amount": 300,
         "date": "30/06/2026",
-        "explanation": "",
+        "explanation": "This money is carried over to next month",
         "paid": false,
         "pal": "Uncle"
     },
     {
         "purpose": "Pocket money",
-        "amount": 270,
+        "amount": 200,
         "date": "30/06/2026",
-        "explanation": "My pocket money is usually 200 cedis but i added 70 cedis because i used 70 cedis of my last pocket money to pay hospital bills when i went to see the orthopedic doctor",
+        "explanation": "",
         "paid": false,
         "pal": "Uncle"
     },
@@ -956,7 +957,7 @@
         "amount": 60,
         "quantity": 2,
         "date": "30/06/2026",
-        "explanation": "Egg crates (30 eggs each)",
+        "explanation": "Egg crates (30 larger eggs each)",
         "paid": false,
         "pal": "Uncle"
     },
@@ -974,6 +975,14 @@
         "amount": 260,
         "date": "30/06/2026",
         "explanation": "Fruits",
+        "paid": false,
+        "pal": "Uncle"
+    },
+    {
+        "purpose": "Gift",
+        "amount": 400,
+        "date": "30/06/2026",
+        "explanation": "Phone battery 300, labor 100 cedis",
         "paid": false,
         "pal": "Uncle"
     }
