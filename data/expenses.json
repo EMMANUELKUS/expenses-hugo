@@ -932,7 +932,7 @@
         "purpose": "Electricity",
         "amount": 300,
         "date": "30/06/2026",
-        "explanation": "carried over to next month",
+        "explanation": "This money was  carried over to this month",
         "paid": false,
         "pal": "Uncle"
     },
