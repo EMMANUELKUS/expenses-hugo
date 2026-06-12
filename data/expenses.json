@@ -850,7 +850,7 @@
         "amount": 1500,
         "date": "31/05/2026",
         "explanation": "",
-        "paid": false,
+        "paid": true,
         "pal": "Uncle"
     },
     {
@@ -858,7 +858,7 @@
         "amount": 300,
         "date": "31/05/2026",
         "explanation": "",
-        "paid": false,
+        "paid": true,
         "pal": "Uncle"
     },
     {
@@ -866,7 +866,7 @@
         "amount": 200,
         "date": "31/05/2026",
         "explanation": "",
-        "paid": false,
+        "paid": true,
         "pal": "Uncle"
     },
     {
@@ -875,7 +875,7 @@
         "quantity": 2,
         "date": "31/05/2026",
         "explanation": "Egg crates (30 eggs each)",
-        "paid": false,
+        "paid": true,
         "pal": "Uncle"
     },
     {
@@ -884,7 +884,7 @@
         "quantity": 4,
         "date": "31/05/2026",
         "explanation": "Fresh meat batches",
-        "paid": false,
+        "paid": true,
         "pal": "Uncle"
     },
     {
@@ -892,7 +892,7 @@
         "amount": 770,
         "date": "31/05/2026",
         "explanation": "",
-        "paid": false,
+        "paid": true,
         "pal": "Uncle"
     },
     {
@@ -907,7 +907,7 @@
         "amount": 260,
         "date": "31/05/2026",
         "explanation": "Fruits for protein",
-        "paid": false,
+        "paid": true,
         "pal": "Uncle"
     },
     {
@@ -915,6 +915,65 @@
         "amount": 250,
         "date": "31/05/2026",
         "explanation": "Going to have an appointment with an orthopedic doctor to get his thought on my ankle's state",
+        "paid": true,
+        "pal": "Uncle"
+    },
+    {
+        "purpose": "Food",
+        "amount": 1500,
+        "date": "30/06/2026",
+        "explanation": "",
+        "paid": false,
+        "pal": "Uncle"
+        
+    },
+    {
+        "purpose": "Electricity",
+        "amount": 300,
+        "date": "30/06/2026",
+        "explanation": "",
+        "paid": false,
+        "pal": "Uncle"
+    },
+    {
+        "purpose": "Pocket money",
+        "amount": 270,
+        "date": "30/06/2026",
+        "explanation": "My pocket money is usually 200 cedis but i added 70 cedis because i used 70 cedis of my last pocket money to pay hospital bills when i went to see the orthopedic doctor",
+        "paid": false,
+        "pal": "Uncle"
+    },
+    {
+        "purpose": "Starlink",
+        "amount": 770,
+        "date": "30/06/2026",
+        "explanation": "",
+        "paid": false,
+        "pal": "Uncle"
+    },
+    {
+        "purpose": "Extra Food",
+        "amount": 60,
+        "quantity": 2,
+        "date": "30/06/2026",
+        "explanation": "Egg crates (30 eggs each)",
+        "paid": false,
+        "pal": "Uncle"
+    },
+    {
+        "purpose": "Extra Food",
+        "amount": 30,
+        "quantity": 4,
+        "date": "30/06/2026",
+        "explanation": "Fresh meats (Goat/Cow) ",
+        "paid": false,
+        "pal": "Uncle"
+    },
+    {
+        "purpose": "Extra Food",
+        "amount": 260,
+        "date": "30/06/2026",
+        "explanation": "Fruits",
         "paid": false,
         "pal": "Uncle"
     }
