@@ -915,7 +915,7 @@
         "purpose": "Medical",
         "amount": 70,
         "date": "31/05/2026",
-        "explanation": "",
+        "explanation": "Last month i borrowed 70 cedis from my pocket money to pay for a medical bill",
         "paid": false,
         "pal": "Uncle"
     },
@@ -932,7 +932,7 @@
         "purpose": "Electricity",
         "amount": 300,
         "date": "30/06/2026",
-        "explanation": "This money is carried over to next month",
+        "explanation": "This money was  carried over to this month",
         "paid": false,
         "pal": "Uncle"
     },
